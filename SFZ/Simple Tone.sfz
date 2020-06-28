@@ -1,0 +1,124 @@
+// this file was generated from Simple Tone.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=433912 sample=../Audio/Simple Tone/36C1-P9SK.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=648 end=433652 sample=../Audio/Simple Tone/37C#1-K34F.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=420 end=433973 sample=../Audio/Simple Tone/38D1-ST9M.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=830 sample=../Audio/Simple Tone/39D#1-NZTE.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=393 end=433415 sample=../Audio/Simple Tone/40E1-H2D8.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=434684 sample=../Audio/Simple Tone/41F1-YWVT.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=464 end=433940 sample=../Audio/Simple Tone/42F#1-VYMV.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=731 end=434304 sample=../Audio/Simple Tone/43G1-VJVP.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=590 sample=../Audio/Simple Tone/44G#1-ZBP1.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=559 end=432095 sample=../Audio/Simple Tone/45A1-KUXG.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=829 sample=../Audio/Simple Tone/46A#1-YY4M.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=611 sample=../Audio/Simple Tone/47B1-18VF.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=388 end=436477 sample=../Audio/Simple Tone/48C2-7JY6.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=662 sample=../Audio/Simple Tone/49C#2-G6KC.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=662 end=432065 sample=../Audio/Simple Tone/50D2-I4GK.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=485 sample=../Audio/Simple Tone/51D#2-TC8J.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=514 end=430080 sample=../Audio/Simple Tone/52E2-Z98D.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=560 sample=../Audio/Simple Tone/53F2-ABS4.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=463 end=430592 sample=../Audio/Simple Tone/54F#2-Z1UN.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=796 end=430464 sample=../Audio/Simple Tone/55G2-0RH3.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=490 sample=../Audio/Simple Tone/56G#2-XKTN.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=727 end=428379 sample=../Audio/Simple Tone/57A2-9TKO.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=716 end=428544 sample=../Audio/Simple Tone/58A#2-T8Z3.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=655 end=428672 sample=../Audio/Simple Tone/59B2-AP4L.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 end=427457 sample=../Audio/Simple Tone/60C3-RO5U.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=517 end=426574 sample=../Audio/Simple Tone/61C#3-3NT7.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=399 end=425993 sample=../Audio/Simple Tone/62D3-BRP1.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=742 end=425600 sample=../Audio/Simple Tone/63D#3-D21T.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=831 sample=../Audio/Simple Tone/64E3-SN14.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=880 end=424320 sample=../Audio/Simple Tone/65F3-S9YU.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=781 end=424371 sample=../Audio/Simple Tone/66F#3-OZEI.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=744 sample=../Audio/Simple Tone/67G3-HDSZ.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=710 end=422658 sample=../Audio/Simple Tone/68G#3-0RWS.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=455 sample=../Audio/Simple Tone/69A3-N5LF.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 end=421148 sample=../Audio/Simple Tone/70A#3-2EMH.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 sample=../Audio/Simple Tone/71B3-YNBC.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=490 sample=../Audio/Simple Tone/72C4-DS6B.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=418304 sample=../Audio/Simple Tone/73C#4-UUHS.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=793 sample=../Audio/Simple Tone/74D4-QMX3.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=750 end=417921 sample=../Audio/Simple Tone/75D#4-UE9A.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=417539 sample=../Audio/Simple Tone/76E4-UPF2.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=806 sample=../Audio/Simple Tone/77F4-HXD0.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=498 end=415873 sample=../Audio/Simple Tone/78F#4-6RA4.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=487 sample=../Audio/Simple Tone/79G4-AKL8.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 sample=../Audio/Simple Tone/80G#4-JIKI.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=878 sample=../Audio/Simple Tone/81A4-LXCK.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=740 sample=../Audio/Simple Tone/82A#4-AAVK.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=906 sample=../Audio/Simple Tone/83B4-WKSG.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=448 end=410902 sample=../Audio/Simple Tone/84C5-JPB8.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=736 end=411787 sample=../Audio/Simple Tone/85C#5-LYRF.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=501 end=409747 sample=../Audio/Simple Tone/86D5-69LZ.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=610 sample=../Audio/Simple Tone/87D#5-6B6Y.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=645 end=409228 sample=../Audio/Simple Tone/88E5-J5N6.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=695 sample=../Audio/Simple Tone/89F5-WZWN.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=769 end=407696 sample=../Audio/Simple Tone/90F#5-7T5E.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=597 sample=../Audio/Simple Tone/91G5-SBQA.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=468 end=408479 sample=../Audio/Simple Tone/92G#5-N4ZV.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 end=408848 sample=../Audio/Simple Tone/93A5-CFP3.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=449 end=405391 sample=../Audio/Simple Tone/94A#5-5QWW.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 end=405649 sample=../Audio/Simple Tone/95B5-GUFH.wav
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 end=407296 sample=../Audio/Simple Tone/96C6-O14B.wav

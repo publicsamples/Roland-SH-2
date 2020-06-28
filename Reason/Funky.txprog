@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tx:program
+	xmlns:tx="http://www.tx16wx.com/2.0/program"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tx16wx.com/2.0/program program.xsd"
+	tx:created-by="20402"
+	tx:compat="2420"
+	tx:name="Funky"
+	>
+	<tx:wave tx:id="1" tx:path="processed samples/funky/(2013115 02410)/53F2-KUQ6.aif" tx:root="F3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="199717"  tx:end="293924" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="199717"  tx:end="293923" tx:mode="Forward"/>
+		<tx:loop tx:name="" tx:start="255435"  tx:end="362978" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="2" tx:path="processed samples/funky/(2013115 02410)/54F#2-MJOV.aif" tx:root="F#3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="268329"  tx:end="357266" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="268329"  tx:end="357265" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="3" tx:path="processed samples/funky/(2013115 02410)/55G2-GXZY.aif" tx:root="G3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="113840"  tx:end="317616" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="113840"  tx:end="317615" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="4" tx:path="processed samples/funky/(2013115 02410)/56G#2-HTXI.aif" tx:root="G#3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="262522"  tx:end="348533" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="262522"  tx:end="348532" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="5" tx:path="processed samples/funky/(2013115 02410)/57A2-TY7W.aif" tx:root="A3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="227627"  tx:end="313652" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="227627"  tx:end="313651" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="6" tx:path="processed samples/funky/(2013115 02410)/58A#2-IMKJ.aif" tx:root="A#3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="125194"  tx:end="359694" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="125194"  tx:end="359693" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="7" tx:path="processed samples/funky/(2013115 02410)/59B2-XSCL.aif" tx:root="B3" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="226470"  tx:end="300205" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="226470"  tx:end="300204" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="8" tx:path="processed samples/funky/(2013115 02410)/60C3-IV67.aif" tx:root="C4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="227553"  tx:end="353510" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="227553"  tx:end="353509" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="9" tx:path="processed samples/funky/(2013115 02410)/61C#3-B67M.aif" tx:root="C#4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="113913"  tx:end="344314" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="113913"  tx:end="344313" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="10" tx:path="processed samples/funky/(2013115 02410)/62D3-BWTL.aif" tx:root="D4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="280642"  tx:end="360703" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="280642"  tx:end="360702" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="11" tx:path="processed samples/funky/(2013115 02410)/63D#3-AFCN.aif" tx:root="D#4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="103566"  tx:end="214164" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="103566"  tx:end="214163" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="12" tx:path="processed samples/funky/(2013115 02410)/64E3-PIN3.aif" tx:root="E4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="152667"  tx:end="232535" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="152667"  tx:end="232534" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="13" tx:path="processed samples/funky/(2013115 02410)/66F#3-EWCG.aif" tx:root="F#4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="181433"  tx:end="324795" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="181433"  tx:end="324794" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="14" tx:path="processed samples/funky/(2013115 02410)/67G3-YKX0.aif" tx:root="G4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="217198"  tx:end="302314" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="217198"  tx:end="302313" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="15" tx:path="processed samples/funky/(2013115 02410)/68G#3-PNG8.aif" tx:root="G#4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="89166"  tx:end="363421" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="89166"  tx:end="363420" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="16" tx:path="processed samples/funky/(2013115 02410)/69A3-5QSO.aif" tx:root="A4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="217388"  tx:end="355628" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="217388"  tx:end="355627" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="17" tx:path="processed samples/funky/(2013115 02410)/70A#3-07KZ.aif" tx:root="A#4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="131050"  tx:end="326637" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="131050"  tx:end="326636" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="18" tx:path="processed samples/funky/(2013115 02410)/71B3-2KH9.aif" tx:root="B4" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="240104"  tx:end="337785" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="240104"  tx:end="337784" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="19" tx:path="processed samples/funky/(2013115 02410)/72C4-OLG3.aif" tx:root="C5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="255643"  tx:end="349847" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="255643"  tx:end="349846" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="20" tx:path="processed samples/funky/(2013115 02410)/73C#4-CDRH.aif" tx:root="C#5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="178689"  tx:end="340093" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="178689"  tx:end="340092" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="21" tx:path="processed samples/funky/(2013115 02410)/74D4-UEDG.aif" tx:root="D5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="112438"  tx:end="350606" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="112438"  tx:end="350605" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="22" tx:path="processed samples/funky/(2013115 02410)/75D#4-G5DA.aif" tx:root="D#5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="118982"  tx:end="194763" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="118982"  tx:end="194762" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="23" tx:path="processed samples/funky/(2013115 02410)/76E4-1I4J.aif" tx:root="E5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="142492"  tx:end="269019" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="142492"  tx:end="269018" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="24" tx:path="processed samples/funky/(2013115 02410)/77F4-YS3S.aif" tx:root="F5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="172894"  tx:end="339810" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="172894"  tx:end="339809" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="25" tx:path="processed samples/funky/(2013115 02410)/78F#4-RLX1.aif" tx:root="F#5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="256727"  tx:end="330049" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="256727"  tx:end="330048" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="26" tx:path="processed samples/funky/(2013115 02410)/79G4-JQ0J.aif" tx:root="G5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="130492"  tx:end="219457" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="130492"  tx:end="219456" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="27" tx:path="processed samples/funky/(2013115 02410)/80G#4-SCG0.aif" tx:root="G#5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="244006"  tx:end="331046" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="244006"  tx:end="331045" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="28" tx:path="processed samples/funky/(2013115 02410)/81A4-1K8W.aif" tx:root="A5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="251722"  tx:end="343869" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="251722"  tx:end="343868" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="29" tx:path="processed samples/funky/(2013115 02410)/82A#4-ELX2.aif" tx:root="A#5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="236192"  tx:end="350391" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="236192"  tx:end="350390" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="30" tx:path="processed samples/funky/(2013115 02410)/83B4-203V.aif" tx:root="B5" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="115959"  tx:end="197249" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="115959"  tx:end="197248" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="31" tx:path="processed samples/funky/(2013115 02410)/84C5-7PTK.aif" tx:root="C6" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="177417"  tx:end="277410" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="177417"  tx:end="277409" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="32" tx:path="processed samples/funky/(2013115 02410)/85C#5-TK5E.aif" tx:root="C#6" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="207180"  tx:end="281206" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="207180"  tx:end="281205" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="33" tx:path="processed samples/funky/(2013115 02410)/86D5-LP7Z.aif" tx:root="D6" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="191327"  tx:end="360904" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="191327"  tx:end="360903" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="34" tx:path="processed samples/funky/(2013115 02410)/87D#5-F39L.aif" tx:root="D#6" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="143306"  tx:end="319030" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="143306"  tx:end="319029" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="35" tx:path="processed samples/funky/(2013115 02410)/88E5-NI1R.aif" tx:root="E6" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="149526"  tx:end="232271" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="149526"  tx:end="232270" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:wave tx:id="36" tx:path="processed samples/funky/(2013115 02410)/89F5-64NL.aif" tx:root="F6" tx:fine="0">
+		<tx:loop tx:name="1" tx:start="273236"  tx:end="362892" tx:mode="Forward"/>
+		<tx:loop tx:name="2" tx:start="0"  tx:end="1" tx:mode="None"/>
+		<tx:loop tx:name="" tx:start="273236"  tx:end="362891" tx:mode="Forward"/>
+	</tx:wave>
+	<tx:range tx:lowkey="C-1" tx:highkey="G9" tx:lowvel="0" tx:highvel="127"/>
+	<tx:group tx:name="53(F2)-127 &lt;KmL0&gt;"
+		tx:coarse="0"
+		tx:fine="0"
+		tx:tuning="Normal"
+		tx:glide="0ms"
+		tx:velocity="1.00"
+		tx:velocityOffset="0"
+		tx:pan="0.00"
+		tx:amp="1.00"
+		tx:playmode="Normal"
+		tx:polymode="Poly"
+		tx:noteprio="Last"
+		tx:output="(ch)"
+		tx:start="0ms"
+		tx:chokeGroup="0"
+		>
+		<tx:range tx:lowkey="C-1" tx:highkey="G9" tx:lowvel="1" tx:highvel="127"/>
+		<tx:aeg tx:attack="0ms" tx:decay1="0ms" tx:level1="1.00" tx:decay2="0ms" tx:sustain="1.00" tx:release="0ms"/>
+		<tx:env1 tx:level0="0.00" tx:time1="0ms" tx:level1="1.00" tx:time2="0ms" tx:level2="0.00" tx:time3="0ms" tx:level3="0.00" tx:amp="1"/>
+		<tx:env2 tx:level0="0.00" tx:time1="1.00s" tx:level1="0.00" tx:time2="1.00s" tx:level2="0.00" tx:time3="1.00s" tx:level3="0.00" tx:amp="1"/>
+		<tx:lfo1 tx:rate="0.00 Hz" tx:type="Sinus" tx:sync="Key" tx:mode="Normal" tx:fadein="0ms" tx:pos="0.00" tx:amp="1.00"/>
+		<tx:lfo2 tx:rate="4.51 Hz" tx:type="Sinus" tx:sync="Key" tx:mode="Normal" tx:fadein="0ms" tx:pos="0.00" tx:amp="1.00"/>
+		<tx:seq1 tx:rate="4.51 Hz" tx:sync="Key" tx:mode="Normal" tx:fadein="0ms" tx:pos="0.00" tx:amp="1.00" tx:length="16" tx:smooth="1" tx:stepsync="0" tx:values="0,31,63,95,127,95,63,31,0,-31,-63,-95,-127,-95,-63,-31" />
+		<tx:seq2 tx:rate="0.50 Hz" tx:sync="Key" tx:mode="Normal" tx:fadein="0ms" tx:pos="0.00" tx:amp="1.00" tx:length="0" tx:smooth="0" tx:stepsync="0" />
+		<tx:seq3 tx:rate="0.50 Hz" tx:sync="Key" tx:mode="Normal" tx:fadein="0ms" tx:pos="0.00" tx:amp="1.00" tx:length="0" tx:smooth="0" tx:stepsync="0" />
+		<tx:filter tx:type="Off" tx:freq="20000 Hz" tx:res="0.00" tx:drive="0.10" tx:slope="24dB"/>
+		<tx:send/>
+		<tx:send/>
+		<tx:send/>
+		<tx:modulation>
+			<tx:entry tx:source="Pitchbend" tx:destination="Pitch (raw)" tx:amount="+100 Ct" tx:frozen="0"/>
+		</tx:modulation>
+		<tx:split tx:wave="1" tx:key="C-1" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="2" tx:key="F#3" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="3" tx:key="G3" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="4" tx:key="G#3" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="5" tx:key="A3" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="6" tx:key="A#3" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="7" tx:key="B3" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="8" tx:key="C4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="9" tx:key="C#4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="10" tx:key="D4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="11" tx:key="D#4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="12" tx:key="E4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="1" tx:root="F4" tx:fine="0" tx:key="F4" tx:loop="3" tx:release="3"/>
+		<tx:split tx:wave="13" tx:key="F#4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="14" tx:key="G4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="15" tx:key="G#4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="16" tx:key="A4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="17" tx:key="A#4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="18" tx:key="B4" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="19" tx:key="C5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="20" tx:key="C#5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="21" tx:key="D5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="22" tx:key="D#5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="23" tx:key="E5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="24" tx:key="F5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="25" tx:key="F#5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="26" tx:key="G5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="27" tx:key="G#5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="28" tx:key="A5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="29" tx:key="A#5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="30" tx:key="B5" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="31" tx:key="C6" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="32" tx:key="C#6" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="33" tx:key="D6" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="34" tx:key="D#6" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="35" tx:key="E6" tx:loop="2" tx:release="2"/>
+		<tx:split tx:wave="36" tx:key="F6" tx:loop="2" tx:release="2"/>
+	</tx:group>
+</tx:program>

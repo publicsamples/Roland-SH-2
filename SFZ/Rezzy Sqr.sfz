@@ -1,0 +1,76 @@
+// this file was generated from Rezzy Sqr.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=9 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=184 end=64683 sample=../Audio/Rezzy Sqr/36C1-5XG2.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=42 end=62890 sample=../Audio/Rezzy Sqr/37C#1-8I5E.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=50 end=73650 sample=../Audio/Rezzy Sqr/38D1-7LVC.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=186 end=59126 sample=../Audio/Rezzy Sqr/39D#1-OA3V.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=189 end=60222 sample=../Audio/Rezzy Sqr/40E1-AVPM.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=205 end=57288 sample=../Audio/Rezzy Sqr/41F1-8RZE.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=154 end=70273 sample=../Audio/Rezzy Sqr/42F#1-FM60.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=94 end=58445 sample=../Audio/Rezzy Sqr/43G1-VXZX.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=196 end=56423 sample=../Audio/Rezzy Sqr/44G#1-XD2X.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=198 end=55032 sample=../Audio/Rezzy Sqr/45A1-5XWP.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=198 end=54936 sample=../Audio/Rezzy Sqr/46A#1-3F8S.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=205 end=53853 sample=../Audio/Rezzy Sqr/47B1-518U.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=121 end=54633 sample=../Audio/Rezzy Sqr/48C2-972Q.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=193 end=52736 sample=../Audio/Rezzy Sqr/49C#2-ITV7.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=202 end=51295 sample=../Audio/Rezzy Sqr/50D2-D59T.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=204 end=49891 sample=../Audio/Rezzy Sqr/51D#2-W5NP.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=28 end=51437 sample=../Audio/Rezzy Sqr/52E2-540B.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=205 end=48201 sample=../Audio/Rezzy Sqr/53F2-56C5.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=205 end=49165 sample=../Audio/Rezzy Sqr/54F#2-2O9N.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=139 end=47321 sample=../Audio/Rezzy Sqr/55G2-DHM0.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=188 end=46409 sample=../Audio/Rezzy Sqr/56G#2-VSVT.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=224 sample=../Audio/Rezzy Sqr/57A2-QBIU.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=188 end=44295 sample=../Audio/Rezzy Sqr/58A#2-4YEQ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=206 end=55048 sample=../Audio/Rezzy Sqr/59B2-QXJY.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=230 end=46143 sample=../Audio/Rezzy Sqr/60C3-320W.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=202 end=43411 sample=../Audio/Rezzy Sqr/61C#3-9X69.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=78 end=43974 sample=../Audio/Rezzy Sqr/62D3-KOLX.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=210 end=42424 sample=../Audio/Rezzy Sqr/63D#3-GMSU.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=136 end=41526 sample=../Audio/Rezzy Sqr/64E3-PCZ0.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=196 end=40431 sample=../Audio/Rezzy Sqr/65F3-FY4S.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=222 end=40139 sample=../Audio/Rezzy Sqr/66F#3-IKMJ.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=133 end=40324 sample=../Audio/Rezzy Sqr/67G3-UDWX.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=133 end=40345 sample=../Audio/Rezzy Sqr/68G#3-7P1B.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=224 end=39340 sample=../Audio/Rezzy Sqr/69A3-N126.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=36 end=37717 sample=../Audio/Rezzy Sqr/70A#3-J9VN.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=200 end=39633 sample=../Audio/Rezzy Sqr/71B3-KR4S.aif
+<group>lokey=72 hikey=126 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=10 offset=197 end=38450 sample=../Audio/Rezzy Sqr/72C4-WHIG.aif

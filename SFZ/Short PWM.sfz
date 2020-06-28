@@ -1,0 +1,100 @@
+// this file was generated from Short PWM.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=130 end=17272 sample=../Audio/Short PWM/36C1-DE1O.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=129 end=17704 sample=../Audio/Short PWM/37C#1-HDLI.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=125 end=29137 sample=../Audio/Short PWM/38D1-FUXN.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179 end=17641 sample=../Audio/Short PWM/39D#1-S6O9.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=83 end=16880 sample=../Audio/Short PWM/40E1-Q439.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=183 end=16969 sample=../Audio/Short PWM/41F1-G1UH.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=194 end=18634 sample=../Audio/Short PWM/42F#1-JIY6.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=52 end=27777 sample=../Audio/Short PWM/43G1-URWP.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=160 end=17925 sample=../Audio/Short PWM/44G#1-FCBN.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=208 end=18304 sample=../Audio/Short PWM/45A1-C2F3.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=165 end=18282 sample=../Audio/Short PWM/46A#1-1O04.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=115 end=27450 sample=../Audio/Short PWM/47B1-7U9U.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=141 end=18284 sample=../Audio/Short PWM/48C2-L09P.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=197 end=27392 sample=../Audio/Short PWM/49C#2-BWAJ.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=205 sample=../Audio/Short PWM/50D2-EMCJ.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=184 end=17525 sample=../Audio/Short PWM/51D#2-K9RQ.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=159 end=17425 sample=../Audio/Short PWM/52E2-TBCN.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=144 end=17617 sample=../Audio/Short PWM/53F2-3QWH.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=121 sample=../Audio/Short PWM/54F#2-YR78.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179 end=28180 sample=../Audio/Short PWM/55G2-6SYE.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=27787 sample=../Audio/Short PWM/56G#2-D6GW.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=213 end=29213 sample=../Audio/Short PWM/57A2-K9TK.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=8 end=17614 sample=../Audio/Short PWM/58A#2-EVLM.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=42 end=17800 sample=../Audio/Short PWM/59B2-YD19.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=164 sample=../Audio/Short PWM/60C3-EDK8.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=17671 sample=../Audio/Short PWM/61C#3-3CNY.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=17412 sample=../Audio/Short PWM/62D3-R7DB.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=75 end=17582 sample=../Audio/Short PWM/63D#3-NDBC.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=77 end=18321 sample=../Audio/Short PWM/64E3-RS2A.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=14 end=17025 sample=../Audio/Short PWM/65F3-1C34.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=209 end=27648 sample=../Audio/Short PWM/66F#3-RZTS.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=144 sample=../Audio/Short PWM/67G3-1JZZ.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=144 end=17462 sample=../Audio/Short PWM/68G#3-WR8B.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=146 end=17983 sample=../Audio/Short PWM/69A3-IY79.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=115 end=17512 sample=../Audio/Short PWM/70A#3-0QFA.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=116 end=17444 sample=../Audio/Short PWM/71B3-OETJ.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=210 end=17195 sample=../Audio/Short PWM/72C4-0H5J.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=183 end=17668 sample=../Audio/Short PWM/73C#4-IVMZ.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=50 end=17815 sample=../Audio/Short PWM/74D4-W8TR.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=183 end=17302 sample=../Audio/Short PWM/75D#4-1TQ0.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=27328 sample=../Audio/Short PWM/76E4-WL3Z.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=220 end=17637 sample=../Audio/Short PWM/77F4-MTGB.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=175 end=16926 sample=../Audio/Short PWM/78F#4-YFDL.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=191 end=16911 sample=../Audio/Short PWM/79G4-47NO.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=184 end=17557 sample=../Audio/Short PWM/80G#4-JZN0.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=171 end=17171 sample=../Audio/Short PWM/81A4-FV93.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=184 end=28078 sample=../Audio/Short PWM/82A#4-ZHY1.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=17086 sample=../Audio/Short PWM/83B4-IJN7.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=184 end=17354 sample=../Audio/Short PWM/84C5-RJ68.aif

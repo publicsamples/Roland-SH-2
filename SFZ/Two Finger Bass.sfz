@@ -1,0 +1,100 @@
+// this file was generated from Two Finger Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=244412 loop_end=338593 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/41F1-GU61.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=233052 loop_end=369282 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/42F#1-ANSP.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=300535 loop_end=356854 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/43G1-25W6.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=186116 loop_end=369371 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/44G#1-8LAR.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=141996 loop_end=279159 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/45A1-WALK.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=206398 loop_end=260614 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/46A#1-XV2S.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=164142 loop_end=226615 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/47B1-33PU.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=171488 loop_end=245213 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/48C2-LSG3.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=134818 loop_end=328344 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/49C#2-9POO.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=169389 loop_end=308844 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/50D2-PSD7.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=187001 loop_end=317023 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/51D#2-CKG3.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=231876 loop_end=288222 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/52E2-IPHC.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=208916 loop_end=385047 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/53F2-ETFS.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=253276 loop_end=335216 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/54F#2-G2FE.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=318895 loop_end=372128 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/55G2-MYZ5.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=204296 loop_end=384519 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/56G#2-FHHS.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=203351 loop_end=345664 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/57A2-WU69.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=201679 loop_end=385972 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/58A#2-EW82.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=210951 loop_end=328723 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/59B2-DUCG.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=149218 loop_end=299723 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/60C3-LVCF.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=221113 loop_end=382924 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/61C#3-A9KJ.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=268914 loop_end=360066 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/62D3-RFG4.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=187169 loop_end=338733 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/63D#3-6D6J.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=181034 loop_end=360240 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/64E3-74RQ.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=318403 loop_end=375706 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/65F3-S1W2.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=314720 loop_end=367422 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/66F#3-MC7J.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=175426 loop_end=337160 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/67G3-XZSJ.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=264233 loop_end=354384 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/68G#3-RSY4.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=147595 loop_end=384128 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/69A3-JTZC.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=180233 loop_end=375807 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/70A#3-61HM.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=247199 loop_end=319919 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/71B3-5MMF.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=167397 loop_end=236019 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/72C4-T76X.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=239440 loop_end=357937 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/73C#4-YU8A.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=261786 loop_end=343663 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/74D4-NP58.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=309619 loop_end=377189 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/75D#4-8GC8.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=299473 loop_end=373133 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/76E4-7XWW.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=202579 loop_end=298870 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/77F4-5TND.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=176539 loop_end=369079 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/78F#4-WTHC.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=275476 loop_end=363522 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/79G4-E8KF.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=181589 loop_end=380466 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/80G#4-SOB2.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=232084 loop_end=341639 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/81A4-RPB7.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=207935 loop_end=362570 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/82A#4-7RNI.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=256115 loop_end=337040 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/83B4-UIAI.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=223968 loop_end=275980 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/84C5-SXAG.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=223095 loop_end=310936 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/85C#5-BK54.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=218598 loop_end=291381 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/86D5-H4W5.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=215764 loop_end=385692 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/87D#5-7TEQ.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=272340 loop_end=345857 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/88E5-MK63.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 loop_mode=loop_sustain loop_start=193694 loop_end=385173 sample=../Audio/processed samples/Two Finger Bass/(2013115 04457)/89F5-YC8Y.aif

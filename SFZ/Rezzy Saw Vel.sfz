@@ -1,0 +1,187 @@
+// this file was generated from Rezzy Saw Vel.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=119 end=65721 sample=../Audio/Rezzy Saw Vel/36C1-5B55.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=212 end=64398 sample=../Audio/Rezzy Saw Vel/36C1-UYQ8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=201 end=66191 sample=../Audio/Rezzy Saw Vel/36C1-QEEH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=54 end=66972 sample=../Audio/Rezzy Saw Vel/36C1-R9KU.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=160 end=69271 sample=../Audio/Rezzy Saw Vel/37C#1-UOBA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=203 end=67004 sample=../Audio/Rezzy Saw Vel/37C#1-DSEV.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=192 sample=../Audio/Rezzy Saw Vel/37C#1-LK7J.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=187 end=66830 sample=../Audio/Rezzy Saw Vel/37C#1-ZWS3.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=100 end=66315 sample=../Audio/Rezzy Saw Vel/38D1-XY4O.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=195 sample=../Audio/Rezzy Saw Vel/38D1-RZY6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=214 end=68663 sample=../Audio/Rezzy Saw Vel/38D1-NR8U.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=172 end=77769 sample=../Audio/Rezzy Saw Vel/38D1-6KLF.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=185 end=68120 sample=../Audio/Rezzy Saw Vel/39D#1-3A3P.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=73 end=68018 sample=../Audio/Rezzy Saw Vel/39D#1-V3UJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=172 end=75804 sample=../Audio/Rezzy Saw Vel/39D#1-LP88.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=168 end=65753 sample=../Audio/Rezzy Saw Vel/39D#1-F4EH.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=190 end=65581 sample=../Audio/Rezzy Saw Vel/40E1-QHWJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=206 end=65176 sample=../Audio/Rezzy Saw Vel/40E1-3ZFZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=188 end=77214 sample=../Audio/Rezzy Saw Vel/40E1-96ES.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=159 end=67221 sample=../Audio/Rezzy Saw Vel/40E1-Z3B0.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=84 end=78781 sample=../Audio/Rezzy Saw Vel/41F1-DXWP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=194 sample=../Audio/Rezzy Saw Vel/41F1-66KP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=211 end=68390 sample=../Audio/Rezzy Saw Vel/41F1-06G3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=185 end=69064 sample=../Audio/Rezzy Saw Vel/41F1-CQRQ.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=221 end=67609 sample=../Audio/Rezzy Saw Vel/42F#1-ENDQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=184 end=65192 sample=../Audio/Rezzy Saw Vel/42F#1-CXS9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=56 end=67939 sample=../Audio/Rezzy Saw Vel/42F#1-7NXX.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=180 end=68030 sample=../Audio/Rezzy Saw Vel/42F#1-AKU3.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=84 end=70006 sample=../Audio/Rezzy Saw Vel/43G1-64PM.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=48 end=66343 sample=../Audio/Rezzy Saw Vel/43G1-JECM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=46 end=78806 sample=../Audio/Rezzy Saw Vel/43G1-JE3L.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=194 end=67896 sample=../Audio/Rezzy Saw Vel/43G1-OM4A.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=214 end=65077 sample=../Audio/Rezzy Saw Vel/44G#1-XDJ8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=192 sample=../Audio/Rezzy Saw Vel/44G#1-670E.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=183 sample=../Audio/Rezzy Saw Vel/44G#1-H269.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=209 end=66624 sample=../Audio/Rezzy Saw Vel/44G#1-9A0E.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=220 end=65319 sample=../Audio/Rezzy Saw Vel/45A1-GUE5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=174 end=68674 sample=../Audio/Rezzy Saw Vel/45A1-AY7H.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=178 end=68828 sample=../Audio/Rezzy Saw Vel/45A1-H5YY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=173 end=67095 sample=../Audio/Rezzy Saw Vel/45A1-G977.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=177 end=78080 sample=../Audio/Rezzy Saw Vel/46A#1-E4LX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=225 end=78978 sample=../Audio/Rezzy Saw Vel/46A#1-VY8N.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=201 end=65542 sample=../Audio/Rezzy Saw Vel/46A#1-78M5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=220 end=76032 sample=../Audio/Rezzy Saw Vel/46A#1-9JIL.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=89 end=69347 sample=../Audio/Rezzy Saw Vel/47B1-MPHV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=146 end=65928 sample=../Audio/Rezzy Saw Vel/47B1-ZNVT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=193 end=68284 sample=../Audio/Rezzy Saw Vel/47B1-0CNH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=144 end=64418 sample=../Audio/Rezzy Saw Vel/47B1-DW27.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=183 end=69829 sample=../Audio/Rezzy Saw Vel/48C2-ZNH1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=208 end=66559 sample=../Audio/Rezzy Saw Vel/48C2-5U1K.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=192 end=82052 sample=../Audio/Rezzy Saw Vel/48C2-RH7R.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=202 end=77226 sample=../Audio/Rezzy Saw Vel/48C2-26GT.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=192 end=79617 sample=../Audio/Rezzy Saw Vel/49C#2-CMXV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=151 end=65680 sample=../Audio/Rezzy Saw Vel/49C#2-ETXC.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=187 end=69151 sample=../Audio/Rezzy Saw Vel/49C#2-J2HI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=194 end=66225 sample=../Audio/Rezzy Saw Vel/49C#2-NWJ1.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=59 end=68523 sample=../Audio/Rezzy Saw Vel/50D2-YKIF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=207 end=67421 sample=../Audio/Rezzy Saw Vel/50D2-9T0Y.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=113 sample=../Audio/Rezzy Saw Vel/50D2-XBG2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=200 end=68371 sample=../Audio/Rezzy Saw Vel/50D2-0ZS1.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=113 end=66785 sample=../Audio/Rezzy Saw Vel/51D#2-16FX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=191 end=66786 sample=../Audio/Rezzy Saw Vel/51D#2-OC58.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=197 end=66639 sample=../Audio/Rezzy Saw Vel/51D#2-BVXC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=36 end=67181 sample=../Audio/Rezzy Saw Vel/51D#2-04EX.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=216 end=65256 sample=../Audio/Rezzy Saw Vel/52E2-CWRU.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=157 end=77967 sample=../Audio/Rezzy Saw Vel/52E2-SJTW.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=79 sample=../Audio/Rezzy Saw Vel/52E2-WRNC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=178 sample=../Audio/Rezzy Saw Vel/52E2-MMLV.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=189 end=66892 sample=../Audio/Rezzy Saw Vel/53F2-JY7G.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=185 end=68114 sample=../Audio/Rezzy Saw Vel/53F2-BEQK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=159 end=66893 sample=../Audio/Rezzy Saw Vel/53F2-8E15.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=173 end=66510 sample=../Audio/Rezzy Saw Vel/53F2-2WG4.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=191 end=67084 sample=../Audio/Rezzy Saw Vel/54F#2-70FH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=215 end=67418 sample=../Audio/Rezzy Saw Vel/54F#2-X3NB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=196 end=67298 sample=../Audio/Rezzy Saw Vel/54F#2-M1GS.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=41 end=67024 sample=../Audio/Rezzy Saw Vel/54F#2-WZV1.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=182 end=67575 sample=../Audio/Rezzy Saw Vel/55G2-PFM4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=127 end=68425 sample=../Audio/Rezzy Saw Vel/55G2-0WRI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=205 end=82590 sample=../Audio/Rezzy Saw Vel/55G2-SCZO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=184 end=69181 sample=../Audio/Rezzy Saw Vel/55G2-OMRV.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=178 end=78849 sample=../Audio/Rezzy Saw Vel/56G#2-0C59.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=212 end=66197 sample=../Audio/Rezzy Saw Vel/56G#2-8TX6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=203 end=79882 sample=../Audio/Rezzy Saw Vel/56G#2-1I7W.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=195 end=80256 sample=../Audio/Rezzy Saw Vel/56G#2-8WW1.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=203 end=79135 sample=../Audio/Rezzy Saw Vel/57A2-CZJI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=220 end=66190 sample=../Audio/Rezzy Saw Vel/57A2-1TJH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=132 end=81810 sample=../Audio/Rezzy Saw Vel/57A2-6TS7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=114 end=67940 sample=../Audio/Rezzy Saw Vel/57A2-PQR1.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=180 end=76721 sample=../Audio/Rezzy Saw Vel/58A#2-K931.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=8 sample=../Audio/Rezzy Saw Vel/58A#2-SSOZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=118 end=64403 sample=../Audio/Rezzy Saw Vel/58A#2-87YZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=117 end=64290 sample=../Audio/Rezzy Saw Vel/58A#2-FJNL.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=199 end=63006 sample=../Audio/Rezzy Saw Vel/59B2-ZZPY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=221 end=64218 sample=../Audio/Rezzy Saw Vel/59B2-VILJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=127 end=66779 sample=../Audio/Rezzy Saw Vel/59B2-HQDM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=146 end=74892 sample=../Audio/Rezzy Saw Vel/59B2-FO64.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=98 end=65260 sample=../Audio/Rezzy Saw Vel/60C3-J9VY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=192 end=77440 sample=../Audio/Rezzy Saw Vel/60C3-BX8X.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=183 end=78208 sample=../Audio/Rezzy Saw Vel/60C3-6647.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=201 end=63468 sample=../Audio/Rezzy Saw Vel/60C3-YQ8J.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=163 end=64375 sample=../Audio/Rezzy Saw Vel/61C#3-246B.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=37 end=63299 sample=../Audio/Rezzy Saw Vel/61C#3-6N3M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=165 end=66542 sample=../Audio/Rezzy Saw Vel/61C#3-M0F3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=56 end=66366 sample=../Audio/Rezzy Saw Vel/61C#3-SLIR.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=112 end=82328 sample=../Audio/Rezzy Saw Vel/62D3-M63H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=168 end=65709 sample=../Audio/Rezzy Saw Vel/62D3-E99U.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=171 end=80297 sample=../Audio/Rezzy Saw Vel/62D3-P29A.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=191 end=64959 sample=../Audio/Rezzy Saw Vel/62D3-SJUZ.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=144 end=66810 sample=../Audio/Rezzy Saw Vel/63D#3-Z8E4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=193 sample=../Audio/Rezzy Saw Vel/63D#3-W9LP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=173 end=80563 sample=../Audio/Rezzy Saw Vel/63D#3-DFGQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=61 end=67092 sample=../Audio/Rezzy Saw Vel/63D#3-T3QY.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=164 sample=../Audio/Rezzy Saw Vel/64E3-8HW4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=191 end=66967 sample=../Audio/Rezzy Saw Vel/64E3-O8KY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=163 end=66944 sample=../Audio/Rezzy Saw Vel/64E3-JWA8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=170 end=80921 sample=../Audio/Rezzy Saw Vel/64E3-ULAX.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=121 end=68248 sample=../Audio/Rezzy Saw Vel/65F3-N6RQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=4 end=68868 sample=../Audio/Rezzy Saw Vel/65F3-MSTI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=184 end=81152 sample=../Audio/Rezzy Saw Vel/65F3-CADE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=105 end=68239 sample=../Audio/Rezzy Saw Vel/65F3-KQB0.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=212 end=83463 sample=../Audio/Rezzy Saw Vel/66F#3-GDGH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=196 sample=../Audio/Rezzy Saw Vel/66F#3-FORL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=193 end=69268 sample=../Audio/Rezzy Saw Vel/66F#3-I3D3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=186 end=68470 sample=../Audio/Rezzy Saw Vel/66F#3-ZRR6.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=208 end=70570 sample=../Audio/Rezzy Saw Vel/67G3-ITHH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=145 end=70069 sample=../Audio/Rezzy Saw Vel/67G3-NE55.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=198 end=70016 sample=../Audio/Rezzy Saw Vel/67G3-GBEU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=175 end=70859 sample=../Audio/Rezzy Saw Vel/67G3-ZA9X.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=218 end=68842 sample=../Audio/Rezzy Saw Vel/68G#3-C70Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=182 end=69632 sample=../Audio/Rezzy Saw Vel/68G#3-AI71.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=161 end=69516 sample=../Audio/Rezzy Saw Vel/68G#3-DBAC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=186 end=68757 sample=../Audio/Rezzy Saw Vel/68G#3-DBBB.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=201 end=67270 sample=../Audio/Rezzy Saw Vel/69A3-5F50.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=219 end=67638 sample=../Audio/Rezzy Saw Vel/69A3-FM76.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=140 end=82562 sample=../Audio/Rezzy Saw Vel/69A3-E17D.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=44 end=68517 sample=../Audio/Rezzy Saw Vel/69A3-GZ0M.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=71 end=65411 sample=../Audio/Rezzy Saw Vel/70A#3-V5HE.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=71 end=65408 sample=../Audio/Rezzy Saw Vel/70A#3-TGBQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=143 end=66072 sample=../Audio/Rezzy Saw Vel/70A#3-MHN3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=184 end=66899 sample=../Audio/Rezzy Saw Vel/70A#3-07TY.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=139 end=64539 sample=../Audio/Rezzy Saw Vel/71B3-0CFH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=78 end=63790 sample=../Audio/Rezzy Saw Vel/71B3-5RZ7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=164 end=65105 sample=../Audio/Rezzy Saw Vel/71B3-OIYF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=177 end=65147 sample=../Audio/Rezzy Saw Vel/71B3-GZDT.aif
+<group>lokey=72 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 volume=7 offset=112 end=61535 sample=../Audio/Rezzy Saw Vel/72C4-9IS9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 volume=7 offset=154 end=63869 sample=../Audio/Rezzy Saw Vel/72C4-IAFM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 volume=7 offset=183 end=76861 sample=../Audio/Rezzy Saw Vel/72C4-LFTW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 volume=7 offset=231 end=63626 sample=../Audio/Rezzy Saw Vel/72C4-GAWP.aif

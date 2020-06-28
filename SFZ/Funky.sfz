@@ -1,0 +1,76 @@
+// this file was generated from Funky.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=199717 loop_end=293922 sample=../Audio/processed samples/funky/(2013115 02410)/53F2-KUQ6.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=268329 loop_end=357264 sample=../Audio/processed samples/funky/(2013115 02410)/54F#2-MJOV.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=113840 loop_end=317614 sample=../Audio/processed samples/funky/(2013115 02410)/55G2-GXZY.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=262522 loop_end=348531 sample=../Audio/processed samples/funky/(2013115 02410)/56G#2-HTXI.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=227627 loop_end=313650 sample=../Audio/processed samples/funky/(2013115 02410)/57A2-TY7W.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=125194 loop_end=359692 sample=../Audio/processed samples/funky/(2013115 02410)/58A#2-IMKJ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=226470 loop_end=300203 sample=../Audio/processed samples/funky/(2013115 02410)/59B2-XSCL.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=227553 loop_end=353508 sample=../Audio/processed samples/funky/(2013115 02410)/60C3-IV67.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=113913 loop_end=344312 sample=../Audio/processed samples/funky/(2013115 02410)/61C#3-B67M.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=280642 loop_end=360701 sample=../Audio/processed samples/funky/(2013115 02410)/62D3-BWTL.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=103566 loop_end=214162 sample=../Audio/processed samples/funky/(2013115 02410)/63D#3-AFCN.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=152667 loop_end=232533 sample=../Audio/processed samples/funky/(2013115 02410)/64E3-PIN3.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=255435 loop_end=362977 sample=../Audio/processed samples/funky/(2013115 02410)/65F3-SHM4.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=181433 loop_end=324793 sample=../Audio/processed samples/funky/(2013115 02410)/66F#3-EWCG.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=217198 loop_end=302312 sample=../Audio/processed samples/funky/(2013115 02410)/67G3-YKX0.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=89166 loop_end=363419 sample=../Audio/processed samples/funky/(2013115 02410)/68G#3-PNG8.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=217388 loop_end=355626 sample=../Audio/processed samples/funky/(2013115 02410)/69A3-5QSO.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=131050 loop_end=326635 sample=../Audio/processed samples/funky/(2013115 02410)/70A#3-07KZ.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=240104 loop_end=337783 sample=../Audio/processed samples/funky/(2013115 02410)/71B3-2KH9.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=255643 loop_end=349845 sample=../Audio/processed samples/funky/(2013115 02410)/72C4-OLG3.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=178689 loop_end=340091 sample=../Audio/processed samples/funky/(2013115 02410)/73C#4-CDRH.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=112438 loop_end=350604 sample=../Audio/processed samples/funky/(2013115 02410)/74D4-UEDG.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=118982 loop_end=194761 sample=../Audio/processed samples/funky/(2013115 02410)/75D#4-G5DA.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=142492 loop_end=269017 sample=../Audio/processed samples/funky/(2013115 02410)/76E4-1I4J.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=172894 loop_end=339808 sample=../Audio/processed samples/funky/(2013115 02410)/77F4-YS3S.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=256727 loop_end=330047 sample=../Audio/processed samples/funky/(2013115 02410)/78F#4-RLX1.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=130492 loop_end=219455 sample=../Audio/processed samples/funky/(2013115 02410)/79G4-JQ0J.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=244006 loop_end=331044 sample=../Audio/processed samples/funky/(2013115 02410)/80G#4-SCG0.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=251722 loop_end=343867 sample=../Audio/processed samples/funky/(2013115 02410)/81A4-1K8W.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=236192 loop_end=350389 sample=../Audio/processed samples/funky/(2013115 02410)/82A#4-ELX2.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=115959 loop_end=197247 sample=../Audio/processed samples/funky/(2013115 02410)/83B4-203V.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=177417 loop_end=277408 sample=../Audio/processed samples/funky/(2013115 02410)/84C5-7PTK.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=207180 loop_end=281204 sample=../Audio/processed samples/funky/(2013115 02410)/85C#5-TK5E.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=191327 loop_end=360902 sample=../Audio/processed samples/funky/(2013115 02410)/86D5-LP7Z.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=143306 loop_end=319028 sample=../Audio/processed samples/funky/(2013115 02410)/87D#5-F39L.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=149526 loop_end=232269 sample=../Audio/processed samples/funky/(2013115 02410)/88E5-NI1R.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=7 loop_mode=loop_sustain loop_start=273236 loop_end=362890 sample=../Audio/processed samples/funky/(2013115 02410)/89F5-64NL.aif

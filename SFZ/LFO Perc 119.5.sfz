@@ -1,0 +1,150 @@
+// this file was generated from LFO Perc 119.5.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=121758 loop_end=260086 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/36C1-V197.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=43284 loop_end=276449 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/36C1-7C96.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126636 loop_end=248508 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/36C1-J6AU.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=16199 loop_end=126746 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/37C#1-P45U.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=210543 loop_end=348744 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/37C#1-LARW.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60897 loop_end=171568 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/37C#1-5JFB.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=144293 loop_end=293687 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/38D1-WTEG.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=237510 loop_end=342505 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/38D1-EUWM.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=50000 loop_end=348716 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/38D1-E6K4.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=137855 loop_end=220832 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/39D#1-OPHB.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=127473 loop_end=359943 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/39D#1-VDIR.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=242411 loop_end=358640 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/39D#1-VCLF.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=237198 loop_end=347980 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/40E1-EEJD.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=204759 loop_end=282478 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/40E1-4AHC.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230942 loop_end=313726 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/40E1-7Y5A.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=33267 loop_end=349187 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/41F1-I4M3.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=210568 loop_end=304274 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/41F1-MI5Y.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160255 loop_end=243268 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/41F1-5HIP.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=143286 loop_end=359188 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/42F#1-4LFV.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=231026 loop_end=364165 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/42F#1-BU0H.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88583 loop_end=183218 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/42F#1-ZM74.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=243655 loop_end=354289 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/43G1-HMS3.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=154497 loop_end=237534 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/43G1-9NBY.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60621 loop_end=359644 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/43G1-QDDH.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=5941 loop_end=88701 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/44G#1-6K39.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=126907 loop_end=342706 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/44G#1-8KUG.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=87739 loop_end=170996 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/44G#1-0IGW.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=60928 loop_end=337607 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/45A1-VU52.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=43525 loop_end=315395 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/45A1-2049.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100098 loop_end=182814 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/45A1-MWKC.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=264901 loop_end=347699 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/46A#1-T3GT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105317 loop_end=182917 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/46A#1-P7PG.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132825 loop_end=216062 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/46A#1-560F.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=116183 loop_end=215718 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/47B1-DG5S.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=204253 loop_end=342551 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/47B1-CXDH.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=10634 loop_end=282120 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/47B1-JLXR.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=149112 loop_end=353803 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/48C2-G5VT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=164470 loop_end=330325 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/48C2-1FE1.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=80696 loop_end=340993 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/48C2-6ANS.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=257630 loop_end=340696 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/49C#2-ZN7J.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=116251 loop_end=210452 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/49C#2-9P6O.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202032 loop_end=340803 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/49C#2-JVP6.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=132912 loop_end=238189 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/50D2-6RQI.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=137918 loop_end=221114 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/50D2-5RR6.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126612 loop_end=220989 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/50D2-WDZA.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=105270 loop_end=337718 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/51D#2-G60E.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=251899 loop_end=346045 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/51D#2-XLI1.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133005 loop_end=243635 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/51D#2-J7GZ.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=60729 loop_end=354203 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/52E2-8SP2.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=70398 loop_end=153374 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/52E2-WLMZ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71239 loop_end=348016 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/52E2-9S8R.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=121622 loop_end=226661 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/53F2-0S5P.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105237 loop_end=243713 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/53F2-FKAS.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66540 loop_end=160537 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/53F2-QAF9.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=176911 loop_end=354090 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/54F#2-KEJT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=199250 loop_end=309917 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/54F#2-ACSJ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=121851 loop_end=298830 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/54F#2-BTGM.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=276475 loop_end=353885 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/55G2-WQAB.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=171766 loop_end=348973 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/55G2-N4RU.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227016 loop_end=321133 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/55G2-P9SN.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=10984 loop_end=354291 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/56G#2-1I26.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=257769 loop_end=351931 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/56G#2-FHM9.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=116411 loop_end=254978 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/56G#2-OX5K.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=198599 loop_end=281732 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/57A2-4DVT.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105360 loop_end=348905 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/57A2-LPO3.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218926 loop_end=301999 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/57A2-33ZR.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=218859 loop_end=324067 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/58A#2-GMZA.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=14187 loop_end=163606 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/58A#2-Z4BB.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=105277 loop_end=254874 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/58A#2-2U18.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=77652 loop_end=360323 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/59B2-DAZA.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=191448 loop_end=274383 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/59B2-6MFQ.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265927 loop_end=348858 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/59B2-JFRO.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=10929 loop_end=353934 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/60C3-EY3X.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=5603 loop_end=88614 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/60C3-SP7L.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49917 loop_end=132937 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/60C3-NEG6.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=11162 loop_end=93598 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/61C#3-11Z4.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=171701 loop_end=254676 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/61C#3-JS1L.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22163 loop_end=348942 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/61C#3-FWZS.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=87474 loop_end=198500 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/62D3-7RPZ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=97273 loop_end=329663 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/62D3-NYSG.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=199359 loop_end=282332 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/62D3-MZ7C.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=93924 loop_end=337303 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/63D#3-MKJG.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=132888 loop_end=215893 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/63D#3-U4ZC.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=11191 loop_end=160737 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/63D#3-D6AS.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=199331 loop_end=348794 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/64E3-IPCQ.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=187010 loop_end=270042 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/64E3-YH75.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=193818 loop_end=276851 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/64E3-KTP4.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=27218 loop_end=149291 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/65F3-5UAM.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=105306 loop_end=188236 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/65F3-GQT2.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=66325 loop_end=271356 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/65F3-QEYV.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=38442 loop_end=132777 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/66F#3-849W.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=171700 loop_end=348877 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/66F#3-2D8W.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22253 loop_end=132973 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/66F#3-80VS.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=59496 loop_end=330545 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/67G3-4U3Y.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=227063 loop_end=310065 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/67G3-43V0.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60986 loop_end=155138 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/67G3-905C.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=103108 loop_end=363281 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/68G#3-NXV0.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=10029 loop_end=242503 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/68G#3-8QPY.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88692 loop_end=171595 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/68G#3-RJMD.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=154413 loop_end=342516 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/69A3-QQNA.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=94075 loop_end=215892 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/69A3-7ERU.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22230 loop_end=116341 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/69A3-1LJA.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=182700 loop_end=265766 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/70A#3-7D5Q.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=238064 loop_end=348778 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/70A#3-EO8D.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=60931 loop_end=210379 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/70A#3-73UQ.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=160024 loop_end=348513 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/71B3-FZ6N.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=174610 loop_end=268745 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/71B3-OMR2.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=108145 loop_end=257612 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/71B3-GY53.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=66480 loop_end=188155 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/72C4-DJZI.wav
+	<region> lovel=043 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=77530 loop_end=160564 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/72C4-XT1U.wav
+	<region> lovel=086 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=38797 loop_end=149503 sample=../Audio/processed samples/LFO Perc 119.5/(20131015 21623)/72C4-MY3R.wav

@@ -1,0 +1,100 @@
+// this file was generated from The Big R.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=607 end=303531 sample=../Audio/The Big R/36C1-T26M.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=620 sample=../Audio/The Big R/37C#1-YZBS.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=590 end=303846 sample=../Audio/The Big R/38D1-5WM7.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=484 sample=../Audio/The Big R/39D#1-DPJV.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=484 end=301937 sample=../Audio/The Big R/40E1-SFFJ.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=269 sample=../Audio/The Big R/41F1-6AZS.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=444 end=306583 sample=../Audio/The Big R/42F#1-9PH0.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=376 end=301871 sample=../Audio/The Big R/43G1-7W4F.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=225 end=300393 sample=../Audio/The Big R/44G#1-O2TY.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=274 end=304895 sample=../Audio/The Big R/45A1-OGH5.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=421 end=305534 sample=../Audio/The Big R/46A#1-XBB1.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=335 end=299989 sample=../Audio/The Big R/47B1-Q200.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=340 sample=../Audio/The Big R/48C2-5A1I.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=541 end=301894 sample=../Audio/The Big R/49C#2-VN60.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=477 end=304397 sample=../Audio/The Big R/50D2-BIMU.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=374 sample=../Audio/The Big R/51D#2-MQS3.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=505 end=297884 sample=../Audio/The Big R/52E2-MJAE.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=513 end=301042 sample=../Audio/The Big R/53F2-SPZO.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=284 end=302070 sample=../Audio/The Big R/54F#2-Y4ZY.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=605 end=304613 sample=../Audio/The Big R/55G2-XCNC.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=293 sample=../Audio/The Big R/56G#2-FPMX.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=292 end=298372 sample=../Audio/The Big R/57A2-RXRU.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=579 end=297366 sample=../Audio/The Big R/58A#2-DLZS.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=618 end=300835 sample=../Audio/The Big R/59B2-044I.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=206 end=300427 sample=../Audio/The Big R/60C3-4LJD.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=483 end=297754 sample=../Audio/The Big R/61C#3-18K4.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 end=298344 sample=../Audio/The Big R/62D3-BSI8.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=373 sample=../Audio/The Big R/63D#3-WFL3.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=254 end=298897 sample=../Audio/The Big R/64E3-5K3Q.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 sample=../Audio/The Big R/65F3-IXWY.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=264 end=296808 sample=../Audio/The Big R/66F#3-HBWY.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=395 end=296307 sample=../Audio/The Big R/67G3-V61H.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 end=295736 sample=../Audio/The Big R/68G#3-KAZC.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=335 end=294387 sample=../Audio/The Big R/69A3-JXRL.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=286 end=293282 sample=../Audio/The Big R/70A#3-W3P1.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=549 sample=../Audio/The Big R/71B3-09U0.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=662 sample=../Audio/The Big R/72C4-B9GX.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=452 sample=../Audio/The Big R/73C#4-JQS5.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=350 end=286713 sample=../Audio/The Big R/74D4-HX65.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=428 end=284420 sample=../Audio/The Big R/75D#4-6H99.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=527 end=282570 sample=../Audio/The Big R/76E4-0H3U.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=282059 sample=../Audio/The Big R/77F4-BPJQ.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=301 end=278806 sample=../Audio/The Big R/78F#4-X58Y.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=331 sample=../Audio/The Big R/79G4-L7VS.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=133 end=274867 sample=../Audio/The Big R/80G#4-EJOO.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=236 end=273240 sample=../Audio/The Big R/81A4-JBZ1.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=504 sample=../Audio/The Big R/82A#4-EY0S.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=189 end=270154 sample=../Audio/The Big R/83B4-NGXB.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=313 end=267560 sample=../Audio/The Big R/84C5-4G7H.aif

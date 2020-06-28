@@ -1,0 +1,52 @@
+// this file was generated from Feedback.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126939 loop_end=245526 sample=../Audio/processed samples/feedback/(20131014 171517)/48C2-DOT4.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127881 loop_end=342956 sample=../Audio/processed samples/feedback/(20131014 171517)/49C#2-UA17.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156304 loop_end=363072 sample=../Audio/processed samples/feedback/(20131014 171517)/50D2-GUHI.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=44694 loop_end=285381 sample=../Audio/processed samples/feedback/(20131014 171517)/51D#2-RYES.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33170 loop_end=331184 sample=../Audio/processed samples/feedback/(20131014 171517)/52E2-OJZC.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227651 loop_end=312679 sample=../Audio/processed samples/feedback/(20131014 171517)/53F2-HF79.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247447 loop_end=323246 sample=../Audio/processed samples/feedback/(20131014 171517)/54F#2-JPRD.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147910 loop_end=286091 sample=../Audio/processed samples/feedback/(20131014 171517)/55G2-JJY2.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187249 loop_end=273324 sample=../Audio/processed samples/feedback/(20131014 171517)/56G#2-XLU5.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275557 loop_end=359490 sample=../Audio/processed samples/feedback/(20131014 171517)/57A2-EH6Q.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123301 loop_end=333236 sample=../Audio/processed samples/feedback/(20131014 171517)/58A#2-DDRO.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49973 loop_end=181092 sample=../Audio/processed samples/feedback/(20131014 171517)/59B2-MDZT.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=199374 loop_end=344822 sample=../Audio/processed samples/feedback/(20131014 171517)/60C3-ORNT.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160571 loop_end=340837 sample=../Audio/processed samples/feedback/(20131014 171517)/61C#3-A92V.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123733 loop_end=350609 sample=../Audio/processed samples/feedback/(20131014 171517)/62D3-JQIO.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=46198 loop_end=215208 sample=../Audio/processed samples/feedback/(20131014 171517)/63D#3-ZAJV.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203455 loop_end=333069 sample=../Audio/processed samples/feedback/(20131014 171517)/64E3-CV52.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130927 loop_end=223137 sample=../Audio/processed samples/feedback/(20131014 171517)/65F3-ACXN.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127851 loop_end=354159 sample=../Audio/processed samples/feedback/(20131014 171517)/66F#3-1KXK.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=87761 loop_end=312026 sample=../Audio/processed samples/feedback/(20131014 171517)/67G3-AFO9.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135163 loop_end=322532 sample=../Audio/processed samples/feedback/(20131014 171517)/68G#3-EZE0.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=86762 loop_end=274162 sample=../Audio/processed samples/feedback/(20131014 171517)/69A3-8C3U.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203367 loop_end=357985 sample=../Audio/processed samples/feedback/(20131014 171517)/70A#3-3RVT.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209760 loop_end=323419 sample=../Audio/processed samples/feedback/(20131014 171517)/71B3-XX3L.wav
+<group>lokey=72 hikey=127 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=118160 loop_end=327054 sample=../Audio/processed samples/feedback/(20131014 171517)/72C4-YFLR.wav

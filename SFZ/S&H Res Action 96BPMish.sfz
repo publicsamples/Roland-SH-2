@@ -1,0 +1,113 @@
+// this file was generated from S&H Res Action 96BPMish.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=3 hikey=53 pitch_keycenter=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=100934 loop_end=198196 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/53F2-NLMC.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262893 loop_end=350206 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/53F2-6N0E.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=70027 loop_end=151778 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/54F#2-0QPH.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237162 loop_end=320346 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/54F#2-QW46.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=164353 loop_end=339517 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/55G2-G0WM.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=100879 loop_end=353749 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/55G2-4R9G.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=99899 loop_end=338607 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/56G#2-8GHP.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188916 loop_end=355033 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/56G#2-E5SH.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=106508 loop_end=195841 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/57A2-BT7E.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223049 loop_end=296232 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/57A2-AM8J.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=93270 loop_end=353988 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/58A#2-OLI1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=50905 loop_end=145913 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/58A#2-JJGT.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=194544 loop_end=355258 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/59B2-NT8B.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76921 loop_end=353083 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/59B2-6P86.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=271613 loop_end=345271 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/60C3-TPZ1.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150006 loop_end=343544 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/60C3-PFKX.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=57513 loop_end=177665 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/61C#3-KJDV.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169461 loop_end=339508 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/61C#3-QMMY.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=143196 loop_end=354452 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/62D3-7LKE.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=1310 loop_end=355750 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/62D3-Z5LR.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=99248 loop_end=361400 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/63D#3-D4DH.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208893 loop_end=287216 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/63D#3-H15A.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=7452 loop_end=356425 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/64E3-E4JK.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=86323 loop_end=161462 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/64E3-RYTH.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=186441 loop_end=260411 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/65F3-1799.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287830 loop_end=362368 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/65F3-56Q6.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=137773 loop_end=303296 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/66F#3-T1QI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208756 loop_end=290557 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/66F#3-MSMD.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=152 loop_end=86533 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/67G3-G1U7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220235 loop_end=295186 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/67G3-0PZJ.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=15466 loop_end=126359 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/68G#3-7ACL.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=219020 loop_end=292429 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/68G#3-9NGJ.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=81091 loop_end=153612 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/69A3-M55S.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135528 loop_end=337265 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/69A3-KMO7.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=266088 loop_end=353077 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/70A#3-JMH7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30705 loop_end=104401 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/70A#3-Y81O.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=26146 loop_end=357595 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/71B3-8N1N.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=36799 loop_end=147454 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/71B3-SZ8R.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=191759 loop_end=352701 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/72C4-BAJ9.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76112 loop_end=168380 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/72C4-SBKG.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=128934 loop_end=202638 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/73C#4-YLBG.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286817 loop_end=360523 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/73C#4-3YVZ.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=214206 loop_end=317264 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/74D4-4D69.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=47300 loop_end=356772 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/74D4-QUHC.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=2139 loop_end=94330 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/75D#4-QH71.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169214 loop_end=354155 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/75D#4-WFKR.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=217170 loop_end=290516 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/76E4-S0MI.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=118897 loop_end=231394 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/76E4-5FD9.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=64726 loop_end=143534 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/77F4-2AAP.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=273311 loop_end=347053 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/77F4-EWJT.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=75561 loop_end=172005 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/78F#4-MOGO.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149698 loop_end=356691 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/78F#4-OYJ0.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=7819 loop_end=80112 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/79G4-OG82.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92663 loop_end=194074 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/79G4-HF7U.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=128496 loop_end=349403 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/80G#4-59Y7.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141773 loop_end=226252 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/80G#4-O9S3.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=75424 loop_end=337390 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/81A4-BN59.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=22370 loop_end=95996 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/81A4-DMV6.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=138953 loop_end=341014 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/82A#4-R0U5.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=190423 loop_end=356094 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/82A#4-8YOC.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=142574 loop_end=225418 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/83B4-MLA6.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132335 loop_end=215491 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/83B4-C669.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=179114 loop_end=265257 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/84C5-QVWK.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286830 loop_end=361098 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/84C5-23PI.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=212107 loop_end=285965 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/85C#5-NZ1U.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249562 loop_end=350245 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/85C#5-JRWU.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=197753 loop_end=354074 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/86D5-DT9Y.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=239858 loop_end=364390 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/86D5-4JR9.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=109963 loop_end=349643 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/87D#5-Q7U0.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=76461 loop_end=151477 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/87D#5-G87W.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=154754 loop_end=234458 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/88E5-YMD3.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15719 loop_end=90718 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/88E5-28RO.wav
+<group>lokey=89 hikey=117 pitch_keycenter=89 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=152678 loop_end=363114 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/89F5-7VLS.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=128404 loop_end=212537 sample=../Audio/processed samples/S&H Res Action 96BPMish/(20131012 191956)/89F5-YRM1.wav
