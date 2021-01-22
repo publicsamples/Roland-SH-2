@@ -1,162 +1,162 @@
 // this file was generated from Noisy Sqr Filter Vel.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=29 pitch_keytrack=1
+<group> key=29 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=209 sample=../Audio/Noisy Sqr Filter Vel/29F0-1T86.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=139 end=148155 sample=../Audio/Noisy Sqr Filter Vel/29F0-17A6.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=223 end=140022 sample=../Audio/Noisy Sqr Filter Vel/29F0-9NBM.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=190 end=137340 sample=../Audio/Noisy Sqr Filter Vel/29F0-RBB0.aif
-<group> key=30 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=190 end=137340 sample=../Audio/Noisy Sqr Filter Vel/29F0-RBB0.aif
+<group> key=30 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=178 end=149342 sample=../Audio/Noisy Sqr Filter Vel/30F#0-TXML.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=186 end=140012 sample=../Audio/Noisy Sqr Filter Vel/30F#0-L1DS.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=213 end=137708 sample=../Audio/Noisy Sqr Filter Vel/30F#0-6AI1.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=41 end=147737 sample=../Audio/Noisy Sqr Filter Vel/30F#0-LD7H.aif
-<group> key=31 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=41 end=147737 sample=../Audio/Noisy Sqr Filter Vel/30F#0-LD7H.aif
+<group> key=31 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=69 end=137173 sample=../Audio/Noisy Sqr Filter Vel/31G0-LPLO.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=199 end=147712 sample=../Audio/Noisy Sqr Filter Vel/31G0-RWZD.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=202 end=138739 sample=../Audio/Noisy Sqr Filter Vel/31G0-AO0N.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=9 end=137834 sample=../Audio/Noisy Sqr Filter Vel/31G0-PU2E.aif
-<group> key=32 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=9 end=137834 sample=../Audio/Noisy Sqr Filter Vel/31G0-PU2E.aif
+<group> key=32 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=176 end=138865 sample=../Audio/Noisy Sqr Filter Vel/32G#0-HMPI.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=180 end=139313 sample=../Audio/Noisy Sqr Filter Vel/32G#0-FSS4.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=191 end=139517 sample=../Audio/Noisy Sqr Filter Vel/32G#0-9H04.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=96 end=139747 sample=../Audio/Noisy Sqr Filter Vel/32G#0-4CKK.aif
-<group> key=33 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=96 end=139747 sample=../Audio/Noisy Sqr Filter Vel/32G#0-4CKK.aif
+<group> key=33 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=172 end=139760 sample=../Audio/Noisy Sqr Filter Vel/33A0-RWQZ.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=180 end=139518 sample=../Audio/Noisy Sqr Filter Vel/33A0-0AIQ.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=168 end=137600 sample=../Audio/Noisy Sqr Filter Vel/33A0-RZ9Q.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=185 end=148485 sample=../Audio/Noisy Sqr Filter Vel/33A0-RM9B.aif
-<group> key=34 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=185 end=148485 sample=../Audio/Noisy Sqr Filter Vel/33A0-RM9B.aif
+<group> key=34 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=180 end=138867 sample=../Audio/Noisy Sqr Filter Vel/34A#0-6RS0.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=173 end=139216 sample=../Audio/Noisy Sqr Filter Vel/34A#0-E8M0.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=171 end=139776 sample=../Audio/Noisy Sqr Filter Vel/34A#0-TY4E.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=93 end=139758 sample=../Audio/Noisy Sqr Filter Vel/34A#0-HWOB.aif
-<group> key=35 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=93 end=139758 sample=../Audio/Noisy Sqr Filter Vel/34A#0-HWOB.aif
+<group> key=35 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=86 end=139384 sample=../Audio/Noisy Sqr Filter Vel/35B0-EMJT.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=175 end=139499 sample=../Audio/Noisy Sqr Filter Vel/35B0-NEBL.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=189 end=139247 sample=../Audio/Noisy Sqr Filter Vel/35B0-AF4G.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=206 end=138750 sample=../Audio/Noisy Sqr Filter Vel/35B0-DW95.aif
-<group> key=36 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=206 end=138750 sample=../Audio/Noisy Sqr Filter Vel/35B0-DW95.aif
+<group> key=36 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=5 end=138496 sample=../Audio/Noisy Sqr Filter Vel/36C1-0VC5.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=190 end=148480 sample=../Audio/Noisy Sqr Filter Vel/36C1-J3I5.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=38 end=138612 sample=../Audio/Noisy Sqr Filter Vel/36C1-H4PK.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=204 end=139884 sample=../Audio/Noisy Sqr Filter Vel/36C1-DLJJ.aif
-<group> key=37 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=204 end=139884 sample=../Audio/Noisy Sqr Filter Vel/36C1-DLJJ.aif
+<group> key=37 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=170 end=139776 sample=../Audio/Noisy Sqr Filter Vel/37C#1-4FVZ.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=213 end=138995 sample=../Audio/Noisy Sqr Filter Vel/37C#1-DQX8.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=190 sample=../Audio/Noisy Sqr Filter Vel/37C#1-RKA2.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=29 end=139249 sample=../Audio/Noisy Sqr Filter Vel/37C#1-O2G0.aif
-<group> key=38 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=29 end=139249 sample=../Audio/Noisy Sqr Filter Vel/37C#1-O2G0.aif
+<group> key=38 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=194 end=139631 sample=../Audio/Noisy Sqr Filter Vel/38D1-98UC.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=206 end=138231 sample=../Audio/Noisy Sqr Filter Vel/38D1-Z78Q.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=217 end=139648 sample=../Audio/Noisy Sqr Filter Vel/38D1-642K.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=199 end=138845 sample=../Audio/Noisy Sqr Filter Vel/38D1-RGQN.aif
-<group> key=39 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=199 end=138845 sample=../Audio/Noisy Sqr Filter Vel/38D1-RGQN.aif
+<group> key=39 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=210 end=139136 sample=../Audio/Noisy Sqr Filter Vel/39D#1-RZDZ.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=194 end=138821 sample=../Audio/Noisy Sqr Filter Vel/39D#1-CKT1.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=141 end=138624 sample=../Audio/Noisy Sqr Filter Vel/39D#1-L9CE.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=49 end=139263 sample=../Audio/Noisy Sqr Filter Vel/39D#1-V5LM.aif
-<group> key=40 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=49 end=139263 sample=../Audio/Noisy Sqr Filter Vel/39D#1-V5LM.aif
+<group> key=40 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=185 end=139209 sample=../Audio/Noisy Sqr Filter Vel/40E1-5VUH.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=194 end=139136 sample=../Audio/Noisy Sqr Filter Vel/40E1-XHFH.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=206 end=138749 sample=../Audio/Noisy Sqr Filter Vel/40E1-JXT1.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=220 end=139126 sample=../Audio/Noisy Sqr Filter Vel/40E1-1W0I.aif
-<group> key=41 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=220 end=139126 sample=../Audio/Noisy Sqr Filter Vel/40E1-1W0I.aif
+<group> key=41 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=206 end=138458 sample=../Audio/Noisy Sqr Filter Vel/41F1-L124.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=198 end=140409 sample=../Audio/Noisy Sqr Filter Vel/41F1-LYO3.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=210 end=138973 sample=../Audio/Noisy Sqr Filter Vel/41F1-RGZP.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=127 end=138353 sample=../Audio/Noisy Sqr Filter Vel/41F1-SC59.aif
-<group> key=42 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=127 end=138353 sample=../Audio/Noisy Sqr Filter Vel/41F1-SC59.aif
+<group> key=42 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=172 end=138483 sample=../Audio/Noisy Sqr Filter Vel/42F#1-BS4A.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=43 end=139005 sample=../Audio/Noisy Sqr Filter Vel/42F#1-FOBY.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=206 end=138195 sample=../Audio/Noisy Sqr Filter Vel/42F#1-SW6Y.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=192 end=138188 sample=../Audio/Noisy Sqr Filter Vel/42F#1-O4YA.aif
-<group> key=43 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=192 end=138188 sample=../Audio/Noisy Sqr Filter Vel/42F#1-O4YA.aif
+<group> key=43 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=193 end=138876 sample=../Audio/Noisy Sqr Filter Vel/43G1-JAPN.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=209 end=139496 sample=../Audio/Noisy Sqr Filter Vel/43G1-RJ6S.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=116 end=139388 sample=../Audio/Noisy Sqr Filter Vel/43G1-NT8I.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=201 end=138748 sample=../Audio/Noisy Sqr Filter Vel/43G1-OV6A.aif
-<group> key=44 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=201 end=138748 sample=../Audio/Noisy Sqr Filter Vel/43G1-OV6A.aif
+<group> key=44 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=144 end=138614 sample=../Audio/Noisy Sqr Filter Vel/44G#1-601O.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=40 end=139374 sample=../Audio/Noisy Sqr Filter Vel/44G#1-114H.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=173 end=138918 sample=../Audio/Noisy Sqr Filter Vel/44G#1-BGR0.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=89 end=138685 sample=../Audio/Noisy Sqr Filter Vel/44G#1-HPGH.aif
-<group> key=45 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=89 end=138685 sample=../Audio/Noisy Sqr Filter Vel/44G#1-HPGH.aif
+<group> key=45 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=143 end=138741 sample=../Audio/Noisy Sqr Filter Vel/45A1-7YN8.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=10 end=138617 sample=../Audio/Noisy Sqr Filter Vel/45A1-H6I6.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=221 end=138624 sample=../Audio/Noisy Sqr Filter Vel/45A1-8XBQ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=171 end=139127 sample=../Audio/Noisy Sqr Filter Vel/45A1-M336.aif
-<group> key=46 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=171 end=139127 sample=../Audio/Noisy Sqr Filter Vel/45A1-M336.aif
+<group> key=46 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=83 end=138713 sample=../Audio/Noisy Sqr Filter Vel/46A#1-OPR9.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=184 end=138591 sample=../Audio/Noisy Sqr Filter Vel/46A#1-AUAL.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=123 end=138710 sample=../Audio/Noisy Sqr Filter Vel/46A#1-7PCH.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=137 end=138730 sample=../Audio/Noisy Sqr Filter Vel/46A#1-43O9.aif
-<group> key=47 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=137 end=138730 sample=../Audio/Noisy Sqr Filter Vel/46A#1-43O9.aif
+<group> key=47 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=201 end=138486 sample=../Audio/Noisy Sqr Filter Vel/47B1-C0PW.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=181 end=138880 sample=../Audio/Noisy Sqr Filter Vel/47B1-Y5BB.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=93 end=139386 sample=../Audio/Noisy Sqr Filter Vel/47B1-Q5HP.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=186 end=138868 sample=../Audio/Noisy Sqr Filter Vel/47B1-4E4T.aif
-<group> key=48 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=186 end=138868 sample=../Audio/Noisy Sqr Filter Vel/47B1-4E4T.aif
+<group> key=48 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=204 end=138741 sample=../Audio/Noisy Sqr Filter Vel/48C2-NGF4.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=175 end=138794 sample=../Audio/Noisy Sqr Filter Vel/48C2-NBAF.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=200 end=139642 sample=../Audio/Noisy Sqr Filter Vel/48C2-86KJ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=170 end=139517 sample=../Audio/Noisy Sqr Filter Vel/48C2-91XH.aif
-<group> key=49 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=170 end=139517 sample=../Audio/Noisy Sqr Filter Vel/48C2-91XH.aif
+<group> key=49 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=187 end=138739 sample=../Audio/Noisy Sqr Filter Vel/49C#2-MJ8W.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=203 end=138872 sample=../Audio/Noisy Sqr Filter Vel/49C#2-23O6.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=221 end=138865 sample=../Audio/Noisy Sqr Filter Vel/49C#2-1CAR.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=179 end=138864 sample=../Audio/Noisy Sqr Filter Vel/49C#2-6Z2O.aif
-<group> key=50 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=179 end=138864 sample=../Audio/Noisy Sqr Filter Vel/49C#2-6Z2O.aif
+<group> key=50 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=188 end=139008 sample=../Audio/Noisy Sqr Filter Vel/50D2-T2K1.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=191 end=138869 sample=../Audio/Noisy Sqr Filter Vel/50D2-DLO7.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=197 end=138870 sample=../Audio/Noisy Sqr Filter Vel/50D2-V0QJ.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=69 end=138621 sample=../Audio/Noisy Sqr Filter Vel/50D2-78U6.aif
-<group> key=51 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=69 end=138621 sample=../Audio/Noisy Sqr Filter Vel/50D2-78U6.aif
+<group> key=51 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=212 end=138724 sample=../Audio/Noisy Sqr Filter Vel/51D#2-KAOU.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=159 end=138482 sample=../Audio/Noisy Sqr Filter Vel/51D#2-GY18.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=147 end=138726 sample=../Audio/Noisy Sqr Filter Vel/51D#2-3HWD.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=188 end=138870 sample=../Audio/Noisy Sqr Filter Vel/51D#2-ABYC.aif
-<group> key=52 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=188 end=138870 sample=../Audio/Noisy Sqr Filter Vel/51D#2-ABYC.aif
+<group> key=52 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=210 end=138878 sample=../Audio/Noisy Sqr Filter Vel/52E2-8I9C.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=135 end=139513 sample=../Audio/Noisy Sqr Filter Vel/52E2-718C.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=181 end=138194 sample=../Audio/Noisy Sqr Filter Vel/52E2-EGWS.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=206 end=138988 sample=../Audio/Noisy Sqr Filter Vel/52E2-V7YS.aif
-<group> key=53 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=206 end=138988 sample=../Audio/Noisy Sqr Filter Vel/52E2-V7YS.aif
+<group> key=53 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=211 end=138976 sample=../Audio/Noisy Sqr Filter Vel/53F2-NRVW.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=158 end=138872 sample=../Audio/Noisy Sqr Filter Vel/53F2-ZA2J.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=174 end=138216 sample=../Audio/Noisy Sqr Filter Vel/53F2-41KK.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=53 end=148225 sample=../Audio/Noisy Sqr Filter Vel/53F2-97O7.aif
-<group> key=54 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=53 end=148225 sample=../Audio/Noisy Sqr Filter Vel/53F2-97O7.aif
+<group> key=54 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=214 end=139765 sample=../Audio/Noisy Sqr Filter Vel/54F#2-DT6E.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=18 end=138610 sample=../Audio/Noisy Sqr Filter Vel/54F#2-2OPH.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=194 end=139132 sample=../Audio/Noisy Sqr Filter Vel/54F#2-MAJP.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=204 end=138463 sample=../Audio/Noisy Sqr Filter Vel/54F#2-WK8M.aif
-<group> key=55 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=204 end=138463 sample=../Audio/Noisy Sqr Filter Vel/54F#2-WK8M.aif
+<group> key=55 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=82 end=138343 sample=../Audio/Noisy Sqr Filter Vel/55G2-LXR1.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=193 end=138466 sample=../Audio/Noisy Sqr Filter Vel/55G2-TL6O.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=162 end=139132 sample=../Audio/Noisy Sqr Filter Vel/55G2-AITA.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=126 end=139126 sample=../Audio/Noisy Sqr Filter Vel/55G2-MXQ9.aif
-<group> key=56 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=126 end=139126 sample=../Audio/Noisy Sqr Filter Vel/55G2-MXQ9.aif
+<group> key=56 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=189 end=138530 sample=../Audio/Noisy Sqr Filter Vel/56G#2-8UI6.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=178 end=138455 sample=../Audio/Noisy Sqr Filter Vel/56G#2-NWII.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=204 end=138618 sample=../Audio/Noisy Sqr Filter Vel/56G#2-C7VM.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=97 end=139390 sample=../Audio/Noisy Sqr Filter Vel/56G#2-EL49.aif
-<group> key=57 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=97 end=139390 sample=../Audio/Noisy Sqr Filter Vel/56G#2-EL49.aif
+<group> key=57 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=174 end=138561 sample=../Audio/Noisy Sqr Filter Vel/57A2-W3OC.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=2 end=139378 sample=../Audio/Noisy Sqr Filter Vel/57A2-SLB1.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=187 end=139368 sample=../Audio/Noisy Sqr Filter Vel/57A2-RQFU.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=73 end=139392 sample=../Audio/Noisy Sqr Filter Vel/57A2-29NJ.aif
-<group> key=58 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=73 end=139392 sample=../Audio/Noisy Sqr Filter Vel/57A2-29NJ.aif
+<group> key=58 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=130 end=138746 sample=../Audio/Noisy Sqr Filter Vel/58A#2-667J.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=200 end=138865 sample=../Audio/Noisy Sqr Filter Vel/58A#2-5PKT.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=90 end=138989 sample=../Audio/Noisy Sqr Filter Vel/58A#2-1TI3.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=190 end=139251 sample=../Audio/Noisy Sqr Filter Vel/58A#2-H338.aif
-<group> key=59 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=190 end=139251 sample=../Audio/Noisy Sqr Filter Vel/58A#2-H338.aif
+<group> key=59 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=185 end=138859 sample=../Audio/Noisy Sqr Filter Vel/59B2-VKIB.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=188 end=138331 sample=../Audio/Noisy Sqr Filter Vel/59B2-42XQ.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=201 end=138880 sample=../Audio/Noisy Sqr Filter Vel/59B2-X0Q1.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=79 end=139006 sample=../Audio/Noisy Sqr Filter Vel/59B2-ON87.aif
-<group>lokey=60 hikey=118 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=79 end=139006 sample=../Audio/Noisy Sqr Filter Vel/59B2-ON87.aif
+<group>lokey=60 hikey=118 pitch_keycenter=60 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=202 end=148224 sample=../Audio/Noisy Sqr Filter Vel/60C3-8LGK.aif
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=198 end=138348 sample=../Audio/Noisy Sqr Filter Vel/60C3-XZW9.aif
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=179 end=138433 sample=../Audio/Noisy Sqr Filter Vel/60C3-BTOG.aif
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=123 end=138737 sample=../Audio/Noisy Sqr Filter Vel/60C3-BV3C.aif
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=123 end=138737 sample=../Audio/Noisy Sqr Filter Vel/60C3-BV3C.aif

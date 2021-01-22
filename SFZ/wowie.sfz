@@ -1,4 +1,4 @@
 // this file was generated from wowie.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=41 pitch_keycenter=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=278294 loop_end=340757
+<group>lokey=0 hikey=41 pitch_keycenter=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=278294 loop_end=340757

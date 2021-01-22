@@ -1,76 +1,76 @@
 // this file was generated from Plastics.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=8 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=144880 loop_end=320053 sample=../Audio/processed samples/Plastics/(20131014 201714)/36C1-1SRR.wav
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=171427 loop_end=381310 sample=../Audio/processed samples/Plastics/(20131014 201714)/37C#1-X95I.wav
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154157 loop_end=328316 sample=../Audio/processed samples/Plastics/(20131014 201714)/38D1-7U2A.wav
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231551 loop_end=380001 sample=../Audio/processed samples/Plastics/(20131014 201714)/39D#1-M20A.wav
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160070 loop_end=377210 sample=../Audio/processed samples/Plastics/(20131014 201714)/40E1-EKQK.wav
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=206748 loop_end=284465 sample=../Audio/processed samples/Plastics/(20131014 201714)/41F1-U8N6.wav
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=137648 loop_end=384473 sample=../Audio/processed samples/Plastics/(20131014 201714)/42F#1-TNL2.wav
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287883 loop_end=384115 sample=../Audio/processed samples/Plastics/(20131014 201714)/43G1-W024.wav
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250819 loop_end=310240 sample=../Audio/processed samples/Plastics/(20131014 201714)/44G#1-BM5O.wav
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197073 loop_end=252368 sample=../Audio/processed samples/Plastics/(20131014 201714)/45A1-618M.wav
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192540 loop_end=347628 sample=../Audio/processed samples/Plastics/(20131014 201714)/46A#1-NC8L.wav
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=138327 loop_end=261146 sample=../Audio/processed samples/Plastics/(20131014 201714)/47B1-HZ7C.wav
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135078 loop_end=228087 sample=../Audio/processed samples/Plastics/(20131014 201714)/48C2-ORAJ.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=176289 loop_end=330889 sample=../Audio/processed samples/Plastics/(20131014 201714)/49C#2-I81F.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298867 loop_end=362516 sample=../Audio/processed samples/Plastics/(20131014 201714)/50D2-YQMX.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136415 loop_end=321792 sample=../Audio/processed samples/Plastics/(20131014 201714)/51D#2-0D2W.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274926 loop_end=335920 sample=../Audio/processed samples/Plastics/(20131014 201714)/52E2-QBLI.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250368 loop_end=309969 sample=../Audio/processed samples/Plastics/(20131014 201714)/53F2-RRJ5.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139770 loop_end=296665 sample=../Audio/processed samples/Plastics/(20131014 201714)/54F#2-VNYB.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=179342 loop_end=335993 sample=../Audio/processed samples/Plastics/(20131014 201714)/55G2-5VHB.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131392 loop_end=348502 sample=../Audio/processed samples/Plastics/(20131014 201714)/56G#2-RGCJ.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324166 loop_end=384324 sample=../Audio/processed samples/Plastics/(20131014 201714)/57A2-WIA1.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=196540 loop_end=259002 sample=../Audio/processed samples/Plastics/(20131014 201714)/58A#2-OB7O.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158990 loop_end=377698 sample=../Audio/processed samples/Plastics/(20131014 201714)/59B2-TS4J.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142230 loop_end=329791 sample=../Audio/processed samples/Plastics/(20131014 201714)/60C3-B42Z.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214775 loop_end=369193 sample=../Audio/processed samples/Plastics/(20131014 201714)/61C#3-LR5I.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131617 loop_end=190806 sample=../Audio/processed samples/Plastics/(20131014 201714)/62D3-16EL.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139820 loop_end=384361 sample=../Audio/processed samples/Plastics/(20131014 201714)/63D#3-LSV1.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267272 loop_end=359395 sample=../Audio/processed samples/Plastics/(20131014 201714)/64E3-B6L3.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165240 loop_end=385152 sample=../Audio/processed samples/Plastics/(20131014 201714)/65F3-DXAX.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136275 loop_end=383443 sample=../Audio/processed samples/Plastics/(20131014 201714)/66F#3-4BTS.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187413 loop_end=342567 sample=../Audio/processed samples/Plastics/(20131014 201714)/67G3-Z6PK.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228712 loop_end=384513 sample=../Audio/processed samples/Plastics/(20131014 201714)/68G#3-HPT2.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322408 loop_end=382412 sample=../Audio/processed samples/Plastics/(20131014 201714)/69A3-1HB1.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192328 loop_end=253113 sample=../Audio/processed samples/Plastics/(20131014 201714)/70A#3-2AKB.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141024 loop_end=200377 sample=../Audio/processed samples/Plastics/(20131014 201714)/71B3-UTWU.wav
-<group>lokey=72 hikey=98 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=135489 loop_end=384217 sample=../Audio/processed samples/Plastics/(20131014 201714)/72C4-UGE5.wav
+<group>lokey=8 hikey=36 pitch_keycenter=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=144880 loop_end=320053 sample=../Audio/processed samples/Plastics/(20131014 201714)/36C1-1SRR.wav
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=171427 loop_end=381310 sample=../Audio/processed samples/Plastics/(20131014 201714)/37C#1-X95I.wav
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=154157 loop_end=328316 sample=../Audio/processed samples/Plastics/(20131014 201714)/38D1-7U2A.wav
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=231551 loop_end=380001 sample=../Audio/processed samples/Plastics/(20131014 201714)/39D#1-M20A.wav
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=160070 loop_end=377210 sample=../Audio/processed samples/Plastics/(20131014 201714)/40E1-EKQK.wav
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=206748 loop_end=284465 sample=../Audio/processed samples/Plastics/(20131014 201714)/41F1-U8N6.wav
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=137648 loop_end=384473 sample=../Audio/processed samples/Plastics/(20131014 201714)/42F#1-TNL2.wav
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=287883 loop_end=384115 sample=../Audio/processed samples/Plastics/(20131014 201714)/43G1-W024.wav
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=250819 loop_end=310240 sample=../Audio/processed samples/Plastics/(20131014 201714)/44G#1-BM5O.wav
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=197073 loop_end=252368 sample=../Audio/processed samples/Plastics/(20131014 201714)/45A1-618M.wav
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=192540 loop_end=347628 sample=../Audio/processed samples/Plastics/(20131014 201714)/46A#1-NC8L.wav
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=138327 loop_end=261146 sample=../Audio/processed samples/Plastics/(20131014 201714)/47B1-HZ7C.wav
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=135078 loop_end=228087 sample=../Audio/processed samples/Plastics/(20131014 201714)/48C2-ORAJ.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=176289 loop_end=330889 sample=../Audio/processed samples/Plastics/(20131014 201714)/49C#2-I81F.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=298867 loop_end=362516 sample=../Audio/processed samples/Plastics/(20131014 201714)/50D2-YQMX.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=136415 loop_end=321792 sample=../Audio/processed samples/Plastics/(20131014 201714)/51D#2-0D2W.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=274926 loop_end=335920 sample=../Audio/processed samples/Plastics/(20131014 201714)/52E2-QBLI.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=250368 loop_end=309969 sample=../Audio/processed samples/Plastics/(20131014 201714)/53F2-RRJ5.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=139770 loop_end=296665 sample=../Audio/processed samples/Plastics/(20131014 201714)/54F#2-VNYB.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=179342 loop_end=335993 sample=../Audio/processed samples/Plastics/(20131014 201714)/55G2-5VHB.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=131392 loop_end=348502 sample=../Audio/processed samples/Plastics/(20131014 201714)/56G#2-RGCJ.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=324166 loop_end=384324 sample=../Audio/processed samples/Plastics/(20131014 201714)/57A2-WIA1.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=196540 loop_end=259002 sample=../Audio/processed samples/Plastics/(20131014 201714)/58A#2-OB7O.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=158990 loop_end=377698 sample=../Audio/processed samples/Plastics/(20131014 201714)/59B2-TS4J.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=142230 loop_end=329791 sample=../Audio/processed samples/Plastics/(20131014 201714)/60C3-B42Z.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=214775 loop_end=369193 sample=../Audio/processed samples/Plastics/(20131014 201714)/61C#3-LR5I.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=131617 loop_end=190806 sample=../Audio/processed samples/Plastics/(20131014 201714)/62D3-16EL.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=139820 loop_end=384361 sample=../Audio/processed samples/Plastics/(20131014 201714)/63D#3-LSV1.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=267272 loop_end=359395 sample=../Audio/processed samples/Plastics/(20131014 201714)/64E3-B6L3.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=165240 loop_end=385152 sample=../Audio/processed samples/Plastics/(20131014 201714)/65F3-DXAX.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=136275 loop_end=383443 sample=../Audio/processed samples/Plastics/(20131014 201714)/66F#3-4BTS.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=187413 loop_end=342567 sample=../Audio/processed samples/Plastics/(20131014 201714)/67G3-Z6PK.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=228712 loop_end=384513 sample=../Audio/processed samples/Plastics/(20131014 201714)/68G#3-HPT2.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=322408 loop_end=382412 sample=../Audio/processed samples/Plastics/(20131014 201714)/69A3-1HB1.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=192328 loop_end=253113 sample=../Audio/processed samples/Plastics/(20131014 201714)/70A#3-2AKB.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=141024 loop_end=200377 sample=../Audio/processed samples/Plastics/(20131014 201714)/71B3-UTWU.wav
+<group>lokey=72 hikey=98 pitch_keycenter=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=135489 loop_end=384217 sample=../Audio/processed samples/Plastics/(20131014 201714)/72C4-UGE5.wav

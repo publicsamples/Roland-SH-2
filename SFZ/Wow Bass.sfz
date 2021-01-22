@@ -1,76 +1,76 @@
 // this file was generated from Wow Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=200 end=138238 sample=../Audio/Wow Bass/53F2-XE19.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=265 end=140140 sample=../Audio/Wow Bass/54F#2-DBIR.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=114 sample=../Audio/Wow Bass/55G2-QHUI.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=202 end=139001 sample=../Audio/Wow Bass/56G#2-XCWC.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=198 end=138177 sample=../Audio/Wow Bass/57A2-2BAO.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=63 end=138620 sample=../Audio/Wow Bass/58A#2-VBHL.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=2 end=138608 sample=../Audio/Wow Bass/59B2-FHED.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=160 end=137983 sample=../Audio/Wow Bass/60C3-79VI.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=127 end=137963 sample=../Audio/Wow Bass/61C#3-UH21.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=103 end=138624 sample=../Audio/Wow Bass/62D3-KO89.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=137 end=139124 sample=../Audio/Wow Bass/63D#3-CBAK.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=79 end=137966 sample=../Audio/Wow Bass/64E3-KF79.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=168 end=138059 sample=../Audio/Wow Bass/65F3-RRMZ.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=196 end=138025 sample=../Audio/Wow Bass/66F#3-PA20.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=184 end=138861 sample=../Audio/Wow Bass/67G3-UA7M.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=199 end=138874 sample=../Audio/Wow Bass/68G#3-X1K2.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=200 end=138752 sample=../Audio/Wow Bass/69A3-6Q7Y.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=202 end=139135 sample=../Audio/Wow Bass/70A#3-LVIC.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=196 end=138210 sample=../Audio/Wow Bass/71B3-SPH2.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=212 end=138877 sample=../Audio/Wow Bass/72C4-XXCU.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=180 end=139124 sample=../Audio/Wow Bass/73C#4-XH78.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=191 end=139126 sample=../Audio/Wow Bass/74D4-V3R6.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=203 end=138604 sample=../Audio/Wow Bass/75D#4-LFYN.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=101 end=138623 sample=../Audio/Wow Bass/76E4-1K0J.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=32 end=149183 sample=../Audio/Wow Bass/77F4-CCZB.aif
-<group> key=78 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=208 end=139264 sample=../Audio/Wow Bass/78F#4-711S.aif
-<group> key=79 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=158 end=139261 sample=../Audio/Wow Bass/79G4-HC4K.aif
-<group> key=80 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=56 end=138612 sample=../Audio/Wow Bass/80G#4-PBRY.aif
-<group> key=81 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=121 end=138603 sample=../Audio/Wow Bass/81A4-E8AH.aif
-<group> key=82 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=112 end=148224 sample=../Audio/Wow Bass/82A#4-V0WQ.aif
-<group> key=83 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=130 end=138325 sample=../Audio/Wow Bass/83B4-QXKM.aif
-<group> key=84 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=212 end=148659 sample=../Audio/Wow Bass/84C5-KRD7.aif
-<group> key=85 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=181 sample=../Audio/Wow Bass/85C#5-KFE4.aif
-<group> key=86 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=168 end=138360 sample=../Audio/Wow Bass/86D5-Y12P.aif
-<group> key=87 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=208 end=138750 sample=../Audio/Wow Bass/87D#5-5UI2.aif
-<group> key=88 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=199 end=138871 sample=../Audio/Wow Bass/88E5-XH69.aif
-<group> key=89 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=229 end=138735 sample=../Audio/Wow Bass/89F5-D3FC.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=200 end=138238 sample=../Audio/Wow Bass/53F2-XE19.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=265 end=140140 sample=../Audio/Wow Bass/54F#2-DBIR.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=114 sample=../Audio/Wow Bass/55G2-QHUI.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=202 end=139001 sample=../Audio/Wow Bass/56G#2-XCWC.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=198 end=138177 sample=../Audio/Wow Bass/57A2-2BAO.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=63 end=138620 sample=../Audio/Wow Bass/58A#2-VBHL.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=2 end=138608 sample=../Audio/Wow Bass/59B2-FHED.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=160 end=137983 sample=../Audio/Wow Bass/60C3-79VI.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=127 end=137963 sample=../Audio/Wow Bass/61C#3-UH21.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=103 end=138624 sample=../Audio/Wow Bass/62D3-KO89.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=137 end=139124 sample=../Audio/Wow Bass/63D#3-CBAK.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=79 end=137966 sample=../Audio/Wow Bass/64E3-KF79.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=168 end=138059 sample=../Audio/Wow Bass/65F3-RRMZ.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=196 end=138025 sample=../Audio/Wow Bass/66F#3-PA20.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=184 end=138861 sample=../Audio/Wow Bass/67G3-UA7M.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=199 end=138874 sample=../Audio/Wow Bass/68G#3-X1K2.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=200 end=138752 sample=../Audio/Wow Bass/69A3-6Q7Y.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=202 end=139135 sample=../Audio/Wow Bass/70A#3-LVIC.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=196 end=138210 sample=../Audio/Wow Bass/71B3-SPH2.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=212 end=138877 sample=../Audio/Wow Bass/72C4-XXCU.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=180 end=139124 sample=../Audio/Wow Bass/73C#4-XH78.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=191 end=139126 sample=../Audio/Wow Bass/74D4-V3R6.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=203 end=138604 sample=../Audio/Wow Bass/75D#4-LFYN.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=101 end=138623 sample=../Audio/Wow Bass/76E4-1K0J.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=32 end=149183 sample=../Audio/Wow Bass/77F4-CCZB.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=208 end=139264 sample=../Audio/Wow Bass/78F#4-711S.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=158 end=139261 sample=../Audio/Wow Bass/79G4-HC4K.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=56 end=138612 sample=../Audio/Wow Bass/80G#4-PBRY.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=121 end=138603 sample=../Audio/Wow Bass/81A4-E8AH.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=112 end=148224 sample=../Audio/Wow Bass/82A#4-V0WQ.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=130 end=138325 sample=../Audio/Wow Bass/83B4-QXKM.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=212 end=148659 sample=../Audio/Wow Bass/84C5-KRD7.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=181 sample=../Audio/Wow Bass/85C#5-KFE4.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=168 end=138360 sample=../Audio/Wow Bass/86D5-Y12P.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=208 end=138750 sample=../Audio/Wow Bass/87D#5-5UI2.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=199 end=138871 sample=../Audio/Wow Bass/88E5-XH69.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=229 end=138735 sample=../Audio/Wow Bass/89F5-D3FC.aif

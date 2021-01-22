@@ -1,76 +1,76 @@
 // this file was generated from Ghost Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=641 loop_end=73830 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/41F1-JNSM.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10742 loop_end=84519 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/42F#1-FV7V.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10444 loop_end=83786 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/43G1-MDF9.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=9599 loop_end=83974 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/44G#1-P2GL.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10584 loop_end=84033 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/45A1-NQ4D.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10477 loop_end=84357 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/46A#1-8PDP.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=397 loop_end=74335 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/47B1-SEXY.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349 loop_end=73591 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/48C2-7GVR.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=11176 loop_end=84132 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/49C#2-T4F3.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10977 loop_end=83307 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/50D2-Q6U5.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=593 loop_end=73415 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/51D#2-LCRS.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=431 loop_end=73458 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/52E2-I3M7.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=10973 loop_end=84896 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/53F2-15KT.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=555 loop_end=74148 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/54F#2-1XOM.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=203484 loop_end=302752 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/55G2-4ODW.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=194133 loop_end=319672 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/56G#2-KDYG.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=221005 loop_end=329425 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/57A2-C94C.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=191764 loop_end=300804 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/58A#2-6DSC.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=255948 loop_end=364457 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/59B2-XAKL.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=241118 loop_end=349644 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/60C3-53LX.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=236846 loop_end=355213 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/61C#3-UTJG.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=215428 loop_end=333119 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/62D3-BEVB.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=220673 loop_end=338573 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/63D#3-G3C3.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=229808 loop_end=348503 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/64E3-MSIN.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=210223 loop_end=328277 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/65F3-KQYF.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=192398 loop_end=362869 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/66F#3-92FJ.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=196551 loop_end=312994 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/67G3-ZXZO.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=215191 loop_end=333364 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/68G#3-G6O7.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=193612 loop_end=313089 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/69A3-A43G.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=245132 loop_end=361827 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/70A#3-90FP.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=218774 loop_end=336818 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/71B3-DTWH.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=237160 loop_end=356255 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/72C4-W5RI.aif
-<group> key=73 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=233063 loop_end=349664 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/73C#4-C0RY.aif
-<group> key=74 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=200984 loop_end=318620 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/74D4-90IW.aif
-<group> key=75 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=196753 loop_end=315273 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/75D#4-AELY.aif
-<group> key=76 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=238475 loop_end=355399 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/76E4-2CHX.aif
-<group> key=77 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=237534 loop_end=354287 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/77F4-CVT3.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=641 loop_end=73830 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/41F1-JNSM.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10742 loop_end=84519 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/42F#1-FV7V.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10444 loop_end=83786 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/43G1-MDF9.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=9599 loop_end=83974 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/44G#1-P2GL.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10584 loop_end=84033 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/45A1-NQ4D.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10477 loop_end=84357 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/46A#1-8PDP.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=397 loop_end=74335 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/47B1-SEXY.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=349 loop_end=73591 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/48C2-7GVR.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=11176 loop_end=84132 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/49C#2-T4F3.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10977 loop_end=83307 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/50D2-Q6U5.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=593 loop_end=73415 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/51D#2-LCRS.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=431 loop_end=73458 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/52E2-I3M7.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=10973 loop_end=84896 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/53F2-15KT.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=555 loop_end=74148 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/54F#2-1XOM.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=203484 loop_end=302752 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/55G2-4ODW.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=194133 loop_end=319672 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/56G#2-KDYG.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=221005 loop_end=329425 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/57A2-C94C.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=191764 loop_end=300804 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/58A#2-6DSC.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=255948 loop_end=364457 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/59B2-XAKL.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=241118 loop_end=349644 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/60C3-53LX.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=236846 loop_end=355213 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/61C#3-UTJG.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=215428 loop_end=333119 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/62D3-BEVB.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=220673 loop_end=338573 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/63D#3-G3C3.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229808 loop_end=348503 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/64E3-MSIN.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=210223 loop_end=328277 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/65F3-KQYF.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=192398 loop_end=362869 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/66F#3-92FJ.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=196551 loop_end=312994 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/67G3-ZXZO.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=215191 loop_end=333364 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/68G#3-G6O7.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=193612 loop_end=313089 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/69A3-A43G.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=245132 loop_end=361827 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/70A#3-90FP.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=218774 loop_end=336818 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/71B3-DTWH.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=237160 loop_end=356255 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/72C4-W5RI.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=233063 loop_end=349664 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/73C#4-C0RY.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=200984 loop_end=318620 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/74D4-90IW.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=196753 loop_end=315273 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/75D#4-AELY.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=238475 loop_end=355399 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/76E4-2CHX.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=237534 loop_end=354287 sample=../Audio/processed samples/Ghost Bass/(2013114 221433)/77F4-CVT3.aif

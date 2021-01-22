@@ -1,76 +1,76 @@
 // this file was generated from Feel it.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=31652 loop_end=269203 sample=../Audio/processed samples/Feel it/(2013114 201744)/36C1-RRDO.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=183193 loop_end=347066 sample=../Audio/processed samples/Feel it/(2013114 201744)/37C#1-J8C8.aif
-<group> key=38 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=124535 loop_end=315041 sample=../Audio/processed samples/Feel it/(2013114 201744)/38D1-RAAC.aif
-<group> key=39 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=82893 loop_end=321447 sample=../Audio/processed samples/Feel it/(2013114 201744)/39D#1-EW5N.aif
-<group> key=40 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=34810 loop_end=351274 sample=../Audio/processed samples/Feel it/(2013114 201744)/40E1-KIXX.aif
-<group> key=41 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=178101 loop_end=272382 sample=../Audio/processed samples/Feel it/(2013114 201744)/41F1-Z2AD.aif
-<group> key=42 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=215768 loop_end=289640 sample=../Audio/processed samples/Feel it/(2013114 201744)/42F#1-AOUV.aif
-<group> key=43 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=65297 loop_end=271121 sample=../Audio/processed samples/Feel it/(2013114 201744)/43G1-X9WH.aif
-<group> key=44 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=46845 loop_end=342735 sample=../Audio/processed samples/Feel it/(2013114 201744)/44G#1-C3A5.aif
-<group> key=45 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=79060 loop_end=336112 sample=../Audio/processed samples/Feel it/(2013114 201744)/45A1-GQB4.aif
-<group> key=46 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=102106 loop_end=344770 sample=../Audio/processed samples/Feel it/(2013114 201744)/46A#1-DNBF.aif
-<group> key=47 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=104101 loop_end=364190 sample=../Audio/processed samples/Feel it/(2013114 201744)/47B1-4HI2.aif
-<group> key=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=86343 loop_end=298353 sample=../Audio/processed samples/Feel it/(2013114 201744)/48C2-6GE4.aif
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=50908 loop_end=361107 sample=../Audio/processed samples/Feel it/(2013114 201744)/49C#2-6Z8T.aif
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=86791 loop_end=172697 sample=../Audio/processed samples/Feel it/(2013114 201744)/50D2-AJ66.aif
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=168694 loop_end=359124 sample=../Audio/processed samples/Feel it/(2013114 201744)/51D#2-PORM.aif
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=70267 loop_end=179853 sample=../Audio/processed samples/Feel it/(2013114 201744)/52E2-FQI0.aif
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=94269 loop_end=354421 sample=../Audio/processed samples/Feel it/(2013114 201744)/53F2-DXBC.aif
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=142997 loop_end=219802 sample=../Audio/processed samples/Feel it/(2013114 201744)/54F#2-II0B.aif
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=57216 loop_end=364397 sample=../Audio/processed samples/Feel it/(2013114 201744)/55G2-AFML.aif
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=54583 loop_end=358743 sample=../Audio/processed samples/Feel it/(2013114 201744)/56G#2-9NDU.aif
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=48388 loop_end=326889 sample=../Audio/processed samples/Feel it/(2013114 201744)/57A2-6JMR.aif
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=48534 loop_end=125322 sample=../Audio/processed samples/Feel it/(2013114 201744)/58A#2-P6AI.aif
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=53560 loop_end=363871 sample=../Audio/processed samples/Feel it/(2013114 201744)/59B2-HYWF.aif
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=162401 loop_end=316056 sample=../Audio/processed samples/Feel it/(2013114 201744)/60C3-7Z25.aif
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=76998 loop_end=271587 sample=../Audio/processed samples/Feel it/(2013114 201744)/61C#3-DES1.aif
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=59943 loop_end=205315 sample=../Audio/processed samples/Feel it/(2013114 201744)/62D3-3MEF.aif
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=161117 loop_end=275811 sample=../Audio/processed samples/Feel it/(2013114 201744)/63D#3-NOUV.aif
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=185998 loop_end=278209 sample=../Audio/processed samples/Feel it/(2013114 201744)/64E3-WC6Q.aif
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=59666 loop_end=176386 sample=../Audio/processed samples/Feel it/(2013114 201744)/65F3-DN74.aif
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=61284 loop_end=364465 sample=../Audio/processed samples/Feel it/(2013114 201744)/66F#3-ZMT0.aif
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=97115 loop_end=360327 sample=../Audio/processed samples/Feel it/(2013114 201744)/67G3-KPOZ.aif
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=196847 loop_end=326902 sample=../Audio/processed samples/Feel it/(2013114 201744)/68G#3-VE17.aif
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=80867 loop_end=335589 sample=../Audio/processed samples/Feel it/(2013114 201744)/69A3-XDZL.aif
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=135953 loop_end=281438 sample=../Audio/processed samples/Feel it/(2013114 201744)/70A#3-50M5.aif
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=95924 loop_end=342811 sample=../Audio/processed samples/Feel it/(2013114 201744)/71B3-ZCK0.aif
-<group> key=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=5 loop_mode=loop_sustain loop_start=95469 loop_end=356390 sample=../Audio/processed samples/Feel it/(2013114 201744)/72C4-RRHT.aif
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=31652 loop_end=269203 sample=../Audio/processed samples/Feel it/(2013114 201744)/36C1-RRDO.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=183193 loop_end=347066 sample=../Audio/processed samples/Feel it/(2013114 201744)/37C#1-J8C8.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=124535 loop_end=315041 sample=../Audio/processed samples/Feel it/(2013114 201744)/38D1-RAAC.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=82893 loop_end=321447 sample=../Audio/processed samples/Feel it/(2013114 201744)/39D#1-EW5N.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=34810 loop_end=351274 sample=../Audio/processed samples/Feel it/(2013114 201744)/40E1-KIXX.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=178101 loop_end=272382 sample=../Audio/processed samples/Feel it/(2013114 201744)/41F1-Z2AD.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=215768 loop_end=289640 sample=../Audio/processed samples/Feel it/(2013114 201744)/42F#1-AOUV.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=65297 loop_end=271121 sample=../Audio/processed samples/Feel it/(2013114 201744)/43G1-X9WH.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=46845 loop_end=342735 sample=../Audio/processed samples/Feel it/(2013114 201744)/44G#1-C3A5.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=79060 loop_end=336112 sample=../Audio/processed samples/Feel it/(2013114 201744)/45A1-GQB4.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=102106 loop_end=344770 sample=../Audio/processed samples/Feel it/(2013114 201744)/46A#1-DNBF.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=104101 loop_end=364190 sample=../Audio/processed samples/Feel it/(2013114 201744)/47B1-4HI2.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=86343 loop_end=298353 sample=../Audio/processed samples/Feel it/(2013114 201744)/48C2-6GE4.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=50908 loop_end=361107 sample=../Audio/processed samples/Feel it/(2013114 201744)/49C#2-6Z8T.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=86791 loop_end=172697 sample=../Audio/processed samples/Feel it/(2013114 201744)/50D2-AJ66.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=168694 loop_end=359124 sample=../Audio/processed samples/Feel it/(2013114 201744)/51D#2-PORM.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=70267 loop_end=179853 sample=../Audio/processed samples/Feel it/(2013114 201744)/52E2-FQI0.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=94269 loop_end=354421 sample=../Audio/processed samples/Feel it/(2013114 201744)/53F2-DXBC.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=142997 loop_end=219802 sample=../Audio/processed samples/Feel it/(2013114 201744)/54F#2-II0B.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=57216 loop_end=364397 sample=../Audio/processed samples/Feel it/(2013114 201744)/55G2-AFML.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=54583 loop_end=358743 sample=../Audio/processed samples/Feel it/(2013114 201744)/56G#2-9NDU.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=48388 loop_end=326889 sample=../Audio/processed samples/Feel it/(2013114 201744)/57A2-6JMR.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=48534 loop_end=125322 sample=../Audio/processed samples/Feel it/(2013114 201744)/58A#2-P6AI.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=53560 loop_end=363871 sample=../Audio/processed samples/Feel it/(2013114 201744)/59B2-HYWF.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=162401 loop_end=316056 sample=../Audio/processed samples/Feel it/(2013114 201744)/60C3-7Z25.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=76998 loop_end=271587 sample=../Audio/processed samples/Feel it/(2013114 201744)/61C#3-DES1.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=59943 loop_end=205315 sample=../Audio/processed samples/Feel it/(2013114 201744)/62D3-3MEF.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=161117 loop_end=275811 sample=../Audio/processed samples/Feel it/(2013114 201744)/63D#3-NOUV.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=185998 loop_end=278209 sample=../Audio/processed samples/Feel it/(2013114 201744)/64E3-WC6Q.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=59666 loop_end=176386 sample=../Audio/processed samples/Feel it/(2013114 201744)/65F3-DN74.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=61284 loop_end=364465 sample=../Audio/processed samples/Feel it/(2013114 201744)/66F#3-ZMT0.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=97115 loop_end=360327 sample=../Audio/processed samples/Feel it/(2013114 201744)/67G3-KPOZ.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=196847 loop_end=326902 sample=../Audio/processed samples/Feel it/(2013114 201744)/68G#3-VE17.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=80867 loop_end=335589 sample=../Audio/processed samples/Feel it/(2013114 201744)/69A3-XDZL.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=135953 loop_end=281438 sample=../Audio/processed samples/Feel it/(2013114 201744)/70A#3-50M5.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=95924 loop_end=342811 sample=../Audio/processed samples/Feel it/(2013114 201744)/71B3-ZCK0.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=5 loop_mode=loop_sustain loop_start=95469 loop_end=356390 sample=../Audio/processed samples/Feel it/(2013114 201744)/72C4-RRHT.aif

@@ -1,52 +1,52 @@
 // this file was generated from Distorted LFO.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=209152 loop_end=297254 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/48C2-IGJ6.wav
-<group> key=49 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72437 loop_end=321884 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/49C#2-CXW5.wav
-<group> key=50 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=91639 loop_end=356000 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/50D2-9X1T.wav
-<group> key=51 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=74387 loop_end=354596 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/51D#2-CYDC.wav
-<group> key=52 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162381 loop_end=236539 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/52E2-4KV2.wav
-<group> key=53 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=125156 loop_end=243831 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/53F2-5RPY.wav
-<group> key=54 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162283 loop_end=249385 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/54F#2-D6GV.wav
-<group> key=55 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112909 loop_end=202296 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/55G2-M9JT.wav
-<group> key=56 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189319 loop_end=336722 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/56G#2-1SM3.wav
-<group> key=57 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39934 loop_end=202340 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/57A2-6NCT.wav
-<group> key=58 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110362 loop_end=227933 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/58A#2-1JK4.wav
-<group> key=59 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25837 loop_end=350774 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/59B2-67YB.wav
-<group> key=60 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172144 loop_end=245764 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/60C3-Z40R.wav
-<group> key=61 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=81550 loop_end=317749 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/61C#3-EF5T.wav
-<group> key=62 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=175672 loop_end=352736 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/62D3-G5R9.wav
-<group> key=63 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182958 loop_end=286517 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/63D#3-02NS.wav
-<group> key=64 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=71475 loop_end=292861 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/64E3-H7MB.wav
-<group> key=65 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127347 loop_end=260135 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/65F3-1ACN.wav
-<group> key=66 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=24614 loop_end=305307 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/66F#3-OBKG.wav
-<group> key=67 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=38986 loop_end=349189 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/67G3-WIUA.wav
-<group> key=68 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=185838 loop_end=362816 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/68G#3-UM15.wav
-<group> key=69 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143593 loop_end=320759 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/69A3-MQOD.wav
-<group> key=70 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112691 loop_end=289818 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/70A#3-2WLL.wav
-<group> key=71 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127083 loop_end=289813 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/71B3-JQ0B.wav
-<group>lokey=72 hikey=110 pitch_keycenter=72 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49669 loop_end=197417 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/72C4-E9NW.wav
+<group>lokey=0 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=209152 loop_end=297254 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/48C2-IGJ6.wav
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=72437 loop_end=321884 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/49C#2-CXW5.wav
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=91639 loop_end=356000 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/50D2-9X1T.wav
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=74387 loop_end=354596 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/51D#2-CYDC.wav
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=162381 loop_end=236539 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/52E2-4KV2.wav
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=125156 loop_end=243831 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/53F2-5RPY.wav
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=162283 loop_end=249385 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/54F#2-D6GV.wav
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=112909 loop_end=202296 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/55G2-M9JT.wav
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=189319 loop_end=336722 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/56G#2-1SM3.wav
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=39934 loop_end=202340 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/57A2-6NCT.wav
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=110362 loop_end=227933 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/58A#2-1JK4.wav
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=25837 loop_end=350774 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/59B2-67YB.wav
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=172144 loop_end=245764 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/60C3-Z40R.wav
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=81550 loop_end=317749 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/61C#3-EF5T.wav
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=175672 loop_end=352736 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/62D3-G5R9.wav
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=182958 loop_end=286517 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/63D#3-02NS.wav
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=71475 loop_end=292861 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/64E3-H7MB.wav
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=127347 loop_end=260135 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/65F3-1ACN.wav
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=24614 loop_end=305307 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/66F#3-OBKG.wav
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=38986 loop_end=349189 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/67G3-WIUA.wav
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=185838 loop_end=362816 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/68G#3-UM15.wav
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=143593 loop_end=320759 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/69A3-MQOD.wav
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=112691 loop_end=289818 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/70A#3-2WLL.wav
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=127083 loop_end=289813 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/71B3-JQ0B.wav
+<group>lokey=72 hikey=110 pitch_keycenter=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  loop_mode=loop_sustain loop_start=49669 loop_end=197417 sample=../Audio/processed samples/Distorted LFO/(20131014 1936)/72C4-E9NW.wav

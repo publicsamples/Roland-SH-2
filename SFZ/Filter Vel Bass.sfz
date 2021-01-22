@@ -1,127 +1,127 @@
 // this file was generated from Filter Vel Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+<group>lokey=1 hikey=36 pitch_keycenter=36 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=783 end=225364 sample=../Audio/Filter Vel Bass/36C1-TWPF.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=387 end=225024 sample=../Audio/Filter Vel Bass/36C1-JLRO.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=816 sample=../Audio/Filter Vel Bass/36C1-SBQP.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=867 end=225767 sample=../Audio/Filter Vel Bass/36C1-M93I.wav
-<group> key=37 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=867 end=225767 sample=../Audio/Filter Vel Bass/36C1-M93I.wav
+<group> key=37 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=373 end=224920 sample=../Audio/Filter Vel Bass/37C#1-N6JA.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=469 end=225661 sample=../Audio/Filter Vel Bass/37C#1-WAKQ.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=463 end=225085 sample=../Audio/Filter Vel Bass/37C#1-AL2B.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=405 end=225303 sample=../Audio/Filter Vel Bass/37C#1-4319.wav
-<group> key=38 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=405 end=225303 sample=../Audio/Filter Vel Bass/37C#1-4319.wav
+<group> key=38 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=499 sample=../Audio/Filter Vel Bass/38D1-N6OQ.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=823 sample=../Audio/Filter Vel Bass/38D1-86X7.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=623 sample=../Audio/Filter Vel Bass/38D1-3MZ3.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=650 end=225542 sample=../Audio/Filter Vel Bass/38D1-Z0JC.wav
-<group> key=39 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=650 end=225542 sample=../Audio/Filter Vel Bass/38D1-Z0JC.wav
+<group> key=39 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=826 end=225516 sample=../Audio/Filter Vel Bass/39D#1-TVUJ.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=714 end=225479 sample=../Audio/Filter Vel Bass/39D#1-KXDB.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=822 sample=../Audio/Filter Vel Bass/39D#1-G2LG.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=836 sample=../Audio/Filter Vel Bass/39D#1-7ITY.wav
-<group> key=40 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=836 sample=../Audio/Filter Vel Bass/39D#1-7ITY.wav
+<group> key=40 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=475 sample=../Audio/Filter Vel Bass/40E1-7H4O.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=617 end=225070 sample=../Audio/Filter Vel Bass/40E1-JNV3.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=753 end=224781 sample=../Audio/Filter Vel Bass/40E1-G1PA.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=476 end=224474 sample=../Audio/Filter Vel Bass/40E1-DE64.wav
-<group> key=41 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=476 end=224474 sample=../Audio/Filter Vel Bass/40E1-DE64.wav
+<group> key=41 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=405 sample=../Audio/Filter Vel Bass/41F1-367Z.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=452 end=225185 sample=../Audio/Filter Vel Bass/41F1-ZXLA.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=516 end=225403 sample=../Audio/Filter Vel Bass/41F1-OS4R.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=651 sample=../Audio/Filter Vel Bass/41F1-9E3T.wav
-<group> key=42 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=651 sample=../Audio/Filter Vel Bass/41F1-9E3T.wav
+<group> key=42 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=798 end=224756 sample=../Audio/Filter Vel Bass/42F#1-5YKT.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=568 end=225008 sample=../Audio/Filter Vel Bass/42F#1-ID2D.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=402 end=224709 sample=../Audio/Filter Vel Bass/42F#1-KUFW.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=474 end=224526 sample=../Audio/Filter Vel Bass/42F#1-C13K.wav
-<group> key=43 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=474 end=224526 sample=../Audio/Filter Vel Bass/42F#1-C13K.wav
+<group> key=43 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=844 end=224869 sample=../Audio/Filter Vel Bass/43G1-ILH4.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=760 sample=../Audio/Filter Vel Bass/43G1-SM3R.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=643 end=225197 sample=../Audio/Filter Vel Bass/43G1-RXFL.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=487 end=225128 sample=../Audio/Filter Vel Bass/43G1-7BBU.wav
-<group> key=44 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=487 end=225128 sample=../Audio/Filter Vel Bass/43G1-7BBU.wav
+<group> key=44 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=446 end=224722 sample=../Audio/Filter Vel Bass/44G#1-PJP0.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=855 end=225205 sample=../Audio/Filter Vel Bass/44G#1-8LVX.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=635 end=224519 sample=../Audio/Filter Vel Bass/44G#1-CDJH.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=779 end=225459 sample=../Audio/Filter Vel Bass/44G#1-BLWK.wav
-<group> key=45 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=779 end=225459 sample=../Audio/Filter Vel Bass/44G#1-BLWK.wav
+<group> key=45 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=667 sample=../Audio/Filter Vel Bass/45A1-3OH7.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=756 end=224425 sample=../Audio/Filter Vel Bass/45A1-S0BJ.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=652 end=224475 sample=../Audio/Filter Vel Bass/45A1-I0D3.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=479 end=224602 sample=../Audio/Filter Vel Bass/45A1-A127.wav
-<group> key=46 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=479 end=224602 sample=../Audio/Filter Vel Bass/45A1-A127.wav
+<group> key=46 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=822 sample=../Audio/Filter Vel Bass/46A#1-1NAE.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=690 sample=../Audio/Filter Vel Bass/46A#1-057Q.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=505 sample=../Audio/Filter Vel Bass/46A#1-GVI6.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=491 end=224533 sample=../Audio/Filter Vel Bass/46A#1-MUK9.wav
-<group> key=47 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=491 end=224533 sample=../Audio/Filter Vel Bass/46A#1-MUK9.wav
+<group> key=47 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=449 end=223905 sample=../Audio/Filter Vel Bass/47B1-QFWX.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=832 end=224445 sample=../Audio/Filter Vel Bass/47B1-GXGT.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=639 end=224480 sample=../Audio/Filter Vel Bass/47B1-IF1H.wav
-<group>lokey=47 hikey=48 pitch_keycenter=47 pitch_keytrack=1
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=820 sample=../Audio/Filter Vel Bass/47B1-J8HP.wav
-<group> key=48 pitch_keytrack=1
+<group>lokey=47 hikey=48 pitch_keycenter=47 
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=820 sample=../Audio/Filter Vel Bass/47B1-J8HP.wav
+<group> key=48 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=487 sample=../Audio/Filter Vel Bass/48C2-N01X.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=510 end=224543 sample=../Audio/Filter Vel Bass/48C2-Q7QA.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=439 end=223932 sample=../Audio/Filter Vel Bass/48C2-QJ7Y.wav
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=396 end=223957 sample=../Audio/Filter Vel Bass/49C#2-42QU.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=452 sample=../Audio/Filter Vel Bass/49C#2-QVI5.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=700 sample=../Audio/Filter Vel Bass/49C#2-E6TC.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=729 end=224549 sample=../Audio/Filter Vel Bass/49C#2-XKCR.wav
-<group> key=50 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=729 end=224549 sample=../Audio/Filter Vel Bass/49C#2-XKCR.wav
+<group> key=50 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=445 end=224227 sample=../Audio/Filter Vel Bass/50D2-2F7M.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=672 end=224187 sample=../Audio/Filter Vel Bass/50D2-4MOK.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=818 sample=../Audio/Filter Vel Bass/50D2-HTAT.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=883 sample=../Audio/Filter Vel Bass/50D2-7IRH.wav
-<group> key=51 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=883 sample=../Audio/Filter Vel Bass/50D2-7IRH.wav
+<group> key=51 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=708 sample=../Audio/Filter Vel Bass/51D#2-1HJR.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=846 end=224254 sample=../Audio/Filter Vel Bass/51D#2-UTZJ.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=801 end=224613 sample=../Audio/Filter Vel Bass/51D#2-EF1N.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=434 sample=../Audio/Filter Vel Bass/51D#2-4A8J.wav
-<group> key=52 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=434 sample=../Audio/Filter Vel Bass/51D#2-4A8J.wav
+<group> key=52 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=783 end=224177 sample=../Audio/Filter Vel Bass/52E2-21S1.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=530 end=224345 sample=../Audio/Filter Vel Bass/52E2-BBFN.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=707 end=224544 sample=../Audio/Filter Vel Bass/52E2-MF64.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=459 end=224212 sample=../Audio/Filter Vel Bass/52E2-U1M1.wav
-<group> key=53 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=459 end=224212 sample=../Audio/Filter Vel Bass/52E2-U1M1.wav
+<group> key=53 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=531 sample=../Audio/Filter Vel Bass/53F2-4QRX.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=774 end=224035 sample=../Audio/Filter Vel Bass/53F2-T7U7.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=710 end=224132 sample=../Audio/Filter Vel Bass/53F2-BUVU.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=857 sample=../Audio/Filter Vel Bass/53F2-4EH8.wav
-<group> key=54 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=857 sample=../Audio/Filter Vel Bass/53F2-4EH8.wav
+<group> key=54 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=818 sample=../Audio/Filter Vel Bass/54F#2-NIXE.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=686 sample=../Audio/Filter Vel Bass/54F#2-YFG8.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=481 end=224072 sample=../Audio/Filter Vel Bass/54F#2-7MSI.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=567 end=223927 sample=../Audio/Filter Vel Bass/54F#2-U5P8.wav
-<group> key=55 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=567 end=223927 sample=../Audio/Filter Vel Bass/54F#2-U5P8.wav
+<group> key=55 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=670 end=223949 sample=../Audio/Filter Vel Bass/55G2-GA7C.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=682 end=223985 sample=../Audio/Filter Vel Bass/55G2-BIDI.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=534 end=223968 sample=../Audio/Filter Vel Bass/55G2-U59K.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=783 sample=../Audio/Filter Vel Bass/55G2-7QPQ.wav
-<group> key=56 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=783 sample=../Audio/Filter Vel Bass/55G2-7QPQ.wav
+<group> key=56 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=676 end=223558 sample=../Audio/Filter Vel Bass/56G#2-T4CB.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=495 sample=../Audio/Filter Vel Bass/56G#2-7TLD.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=727 end=223915 sample=../Audio/Filter Vel Bass/56G#2-GDD7.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=779 sample=../Audio/Filter Vel Bass/56G#2-9GRD.wav
-<group> key=57 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=779 sample=../Audio/Filter Vel Bass/56G#2-9GRD.wav
+<group> key=57 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=689 end=223841 sample=../Audio/Filter Vel Bass/57A2-UUBU.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=593 end=223644 sample=../Audio/Filter Vel Bass/57A2-CP0K.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=500 end=223863 sample=../Audio/Filter Vel Bass/57A2-E40D.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=721 end=224299 sample=../Audio/Filter Vel Bass/57A2-5O8J.wav
-<group> key=58 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=721 end=224299 sample=../Audio/Filter Vel Bass/57A2-5O8J.wav
+<group> key=58 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=854 end=224071 sample=../Audio/Filter Vel Bass/58A#2-DMVD.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=406 end=223968 sample=../Audio/Filter Vel Bass/58A#2-1U3B.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=536 end=223981 sample=../Audio/Filter Vel Bass/58A#2-SGZC.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=849 end=224164 sample=../Audio/Filter Vel Bass/58A#2-CUGS.wav
-<group> key=59 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=849 end=224164 sample=../Audio/Filter Vel Bass/58A#2-CUGS.wav
+<group> key=59 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=798 end=223752 sample=../Audio/Filter Vel Bass/59B2-PILK.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=823 end=223527 sample=../Audio/Filter Vel Bass/59B2-1XMP.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=817 sample=../Audio/Filter Vel Bass/59B2-Q4I6.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=541 end=223859 sample=../Audio/Filter Vel Bass/59B2-SMGJ.wav
-<group>lokey=60 hikey=98 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=541 end=223859 sample=../Audio/Filter Vel Bass/59B2-SMGJ.wav
+<group>lokey=60 hikey=98 pitch_keycenter=60 
 	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=847 end=224197 sample=../Audio/Filter Vel Bass/60C3-4E0E.wav
 	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=698 end=224119 sample=../Audio/Filter Vel Bass/60C3-I1HX.wav
 	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=405 end=223357 sample=../Audio/Filter Vel Bass/60C3-LPTR.wav
-	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=649 sample=../Audio/Filter Vel Bass/60C3-IVTB.wav
+	<region> lovel=096 hivel=127  amp_veltrack=0  offset=649 sample=../Audio/Filter Vel Bass/60C3-IVTB.wav
