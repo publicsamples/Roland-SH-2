@@ -6,6 +6,7 @@ The Roland SH-2 is a simple analogue monosynth from the late 70's.  This collect
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
 -   **Approx Size:** 1.1GB
 -   [vintagesynth.com](http://www.vintagesynth.com/roland/sh2.php/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/sh2.html)
 
 **This collection requires you to download the audio seperately**
 
